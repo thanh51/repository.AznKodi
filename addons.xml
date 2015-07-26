@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.program.AznKodiAddonCreator" name="*AznKodi [COLOR cyan]Add-on Creator[/COLOR]" version="1.0.0" provider-name="AznKodi">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>XBMC/Kodi add-on creator</summary>
+        <description>
+Use this add-on creator to make your own favorite XBMC/Kodi addons to use with[COLOR red][B] m3u and/or xml playlists (NO REGEX)[/B][/COLOR]
+
+Dùng addon creator này để tạo ra các XBMC/Kodi addons theo sở thích dùng chung với[COLOR red][B] danh sách m3u và/hoặc xml (NO REGEX)[/B][/COLOR]
+		</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<mainsource>https://github.com/AznKodi/repository.AznKodi</mainsource>
+		<source></source>
+    </extension>
+</addon>
+
+<addon id="plugin.program.AznKodiConverter" name="*AznKodi [COLOR cyan]M3U XML Converter[/COLOR]" version="1.0.0" provider-name="AznKodi">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>M3U XML Converter</summary>
+        <description>
+Use this add-on to convert M3U to XML Playlist and vice versa.
+It will ignore XML with regex.
+
+Dùng add-on này để chuyển đổi M3U sang XML playlist và ngược lại.
+Add-on này sẽ bỏ qua và không chuyển đổi XML dùng regex.
+		</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<mainsource>https://github.com/AznKodi/repository.AznKodi</mainsource>
+		<source></source>
+    </extension>
+</addon>
+
+<addon id="plugin.video.AznKodiAdult" name="AznKodiAdult" version="1.0.0" provider-name="AznKodi">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR red]Adult[/COLOR] TV and videos</summary>
+        <description>
+Internet [COLOR red]adult TV and videos [COLOR white]from various sources.
+
+[COLOR red][B]WARNING:[/B]
+[COLOR red]You must be[COLOR yellow] at least 18 years old[COLOR red] or[COLOR yellow] over the legal age where you live or use this addon[COLOR red] to watch adult contents.[/COLOR]
+		</description>
+		<disclaimer>
+[COLOR lime]The streaming media are found via website(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]
+		</disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<mainsource>https://github.com/AznKodi/repository.AznKodi</mainsource>
+		<source></source>
+    </extension>
+</addon>
+
+<addon id="plugin.video.AznKodiMedia" name="*AznKodiMedia" version="1.0.0" provider-name="AznKodi">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Video and audio from various websites.</summary>
+        <description>Play video and audio from many sources.</description>
+		<disclaimer>
+[COLOR lime]The streaming media are pulled from online provider(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]
+		</disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website>http://www.youtube.com/</website>
+		<website>http://www.dailymotion.com/</website>
+		<website>http://www.dnrtv.org.vn/tvod/chuyen-de/suc-khoe</website>
+		<email></email>
+		<mainsource>https://github.com/AznKodi/repository.AznKodi</mainsource>
+		<source>https://github.com/bromix/plugin.video.youtube</source>
+		<source>https://github.com/AddonScriptorDE/plugin.video.dailymotion_com</source>
+    </extension>
+</addon>
+
+<addon id="plugin.video.AznKodiMovies" name="*AznKodiMovies" version="1.0.0" provider-name="AznKodi">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Movies</summary>
+        <description>Watch internet movies</description>
+		<disclaimer>
+[COLOR lime]The streaming media are found via website(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]
+		</disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<mainsource>https://github.com/AznKodi/repository.AznKodi</mainsource>
+		<source></source>
+    </extension>
+</addon>
+
+<addon id="plugin.video.AznKodiMusic" name="*AznKodiMusic" version="1.0.0" provider-name="AznKodi">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Music</summary>
+        <description>Play internet music</description>
+		<disclaimer>
+[COLOR lime]The streaming media are found via website(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]
+		</disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<mainsource>https://github.com/AznKodi/repository.AznKodi</mainsource>
+		<source></source>
+    </extension>
+</addon>
+
+<addon id="plugin.video.AznKodiTV" name="*AznKodiTV" version="1.0.0" provider-name="AznKodi">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>TV, Music Video and Radio</summary>
+        <description>
+- Watch TV, music video and listen to radio on the internet.
+- Add your own M3U, XML playlists.
+- 2 TV modes: Menu Selection or Direct Link.
+
+- Xem TV, video ca nhạc và nghe radio qua internet.
+- Có thể cho thêm M3U, XML playlists.
+- Có thể chọn TV với Menu Selection hoặc Direct Link.
+		</description>
+		<disclaimer>
+[COLOR lime]The streaming media are found via website(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]
+		</disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<mainsource>https://github.com/AznKodi/repository.AznKodi</mainsource>
+		<source></source>
+    </extension>
+</addon>
+
+<addon id="plugin.video.AznKodiVideos" name="*AznKodiVideos" version="1.0.0" provider-name="AznKodi">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Videos</summary>
+        <description>Watch internet videos from different sources.</description>
+		<disclaimer>
+[COLOR lime]The streaming media are found via website(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]
+		</disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<mainsource>https://github.com/AznKodi/repository.AznKodi</mainsource>
+		<source></source>
+    </extension>
+</addon>
+
+<addon id="repository.AznKodi" name="AznKodi" version="1.0.0" provider-name="AznKodi">
+	<extension point="xbmc.addon.repository" name="VietKodi Addon Repository">
+		<info compressed="false">https://github.com/AznKodi/repository.AznKodi/raw/master/addons.xml</info>
+		<checksum>https://github.com/AznKodi/repository.AznKodi/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/AznKodi/repository.AznKodi/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>XBMC-Kodi Repo</summary>
+		<description>Repo for XBMC-Kodi</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>

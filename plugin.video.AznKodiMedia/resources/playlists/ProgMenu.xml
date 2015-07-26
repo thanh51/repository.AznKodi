@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>XBMC / Kodi</name>
+<thumbnail>https://i.ytimg.com/vi/RDun9WIWP20/mqdefault.jpg</thumbnail>
+<items>
+<item>
+<title>[COLOR cyan]XBMC Plugin Creator Tutorial! [COLOR yellow]http://www.mediafire.com/download/i97gzt33xnga57v/PluginCreator.zip [COLOR magenta]http://forum.kodi.tv/showthread.php?tid=197302[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vwUiuQw_QWw</link>
+<thumbnail>https://yt3.ggpht.com/-CYDl3wBYP5s/AAAAAAAAAAI/AAAAAAAAAAA/3lVxjqLRPOQ/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>HOW TO USE XBMC</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RDun9WIWP20</link>
+<thumbnail>https://yt3.ggpht.com/-3UKe5O1TaHQ/AAAAAAAAAAI/AAAAAAAAAAA/z6o_-PqjA1k/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>XBMC - How to make a FULL backup And FULL Restore</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ksYu6ncLiW0</link>
+<thumbnail>https://yt3.ggpht.com/-Di1yJ8EnHek/AAAAAAAAAAI/AAAAAAAAAAA/38_mvmEsrAQ/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>xbmc set up and config</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ITl00InGqNY</link>
+<thumbnail>https://yt3.ggpht.com/-i6Fj79AcPy0/AAAAAAAAAAI/AAAAAAAAAAA/ijTXhDdNy0E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Clear the Cache of XBMC / Kodi ( December 2014)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qEBj57OOddw</link>
+<thumbnail>https://yt3.ggpht.com/-7MqMXmT3DR8/AAAAAAAAAAI/AAAAAAAAAAA/bfs3l0wg6u4/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>XBMC - How To Install & Setup p2p-streams</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iutIwY78GII</link>
+<thumbnail>https://yt3.ggpht.com/-Di1yJ8EnHek/AAAAAAAAAAI/AAAAAAAAAAA/38_mvmEsrAQ/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>XBMC - How to Install EVERY Add-on that XBMC Has to Offer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_GYXPm5fENw</link>
+<thumbnail>https://yt3.ggpht.com/-yyi7bfBAFdM/AAAAAAAAAAI/AAAAAAAAAAA/YZtjGJ9XsYo/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>How to Increase XBMC Cache Space</title>
+<link>plugin://plugin.video.youtube/play/?video_id=v0kMgBZF6J8</link>
+<thumbnail>https://yt3.ggpht.com/-Se4DrSNofmU/AAAAAAAAAAI/AAAAAAAAAAA/KWZhJotP3d0/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Python by Dạy Nhau Học</name>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+<items>
+<item>
+<title>Python Bài 0 - Giới thiệu Python (15:08)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FgN-mHwHLyg</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Powershell Bài 1 (12:18)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UQ1kh8yZG7k</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Powershell Bài 2 (10:11)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=f08nvrFjzGw</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 1 - Chương trình đầu tiên (14:09)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=z6kLia0RgW4</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 2 - Comments (7:41)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=A_lL0VhXoGA</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 2 - Comments - Ôn tập (6:04)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5qqMZsq59_E</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 3 - Số và toán (7:24)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fyzu_Gw8J8c</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 3 - Số và toán - Ôn Tập (8:22)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7FxctJyl1Lk</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 4 - Biến và tên (9:55)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5Lxms-HswSo</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 4 - Biến và tên - Ôn tập (6:24)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FXu5Nny5fgU</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 5 - Tiếp tục Biến và tên (8:27)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=J_Rg86V12Q4</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 5 - Tiếp tục biến và tên - Ôn tập (7:08)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BQKvDtl58rg</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 6 - Strings and text (9:21)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wof1Laykrik</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 6 - String and text - Ôn tập (3:08)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RRzezIDtT0Q</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 7 - Tiếp tục print (6:19)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vXd9GUtrqto</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 7 - Tiếp tục print - Ôn tập (3:02)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7h-V0Rza9mg</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 8 - Printing, Printing (5:53)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=24gFT6AgNzI</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 8 - Printing, Printing - Ôn tập (3:13)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fzyQ5h7k5Nc</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 9 - Printing, Printing, Printing (6:01)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=V9WynG46qOM</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 9 - Printing, Printing, Printing - Ôn tập (2:21)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KnqIed-hHmo</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 10 - What was that? (5:36)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8M-l7DaHNmY</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 10 - What was that? - Ôn tập (10:32)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nHtaL4BqUNM</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 11 - Nhập Dữ Liệu (5:51)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NPY1D4pMJM0</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 11 - Nhập Dữ Liệu - Ôn tập (9:27)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=X6yyDsD68lQ</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 12 - Prompt (4:29)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=XYmtLlOL7lg</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 12 - Prompt - Ôn tập (13:12)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-3mTQJ2z_5o</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 13 - Tham số dòng lệnh (9:50)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vkpU8dMQAeA</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 13 - Tham số dòng lệnh - Ôn tập (9:39)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qrVSxLXcp8M</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 14 - argv và raw_input (6:28)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Prz5zh_tadI</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 14 - argv và raw_input - Ôn tập (7:13)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xfLsyE-WghM</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 15 - Đọc file (8:45)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vE2qMeFBbOk</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 15 - Đọc file - Ôn tập (12:57)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sryMgzdjJzQ</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 16 - Đọc và ghi file (14:42)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=B0zDjStT1mg</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 16 - Đọc và ghi file - Ôn tập (11:07)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2dsdJNfa9Z8</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 17 - Tiếp tục về files (10:53)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3WhMEB69zns</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 17 - Tiếp tục về files - Ôn tập (9:28)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sdHojoS2smc</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python bài 18 - Tên, biến, code và hàm (17:55)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sMLb6uhNEtU</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 18 - Tên, biến, code và hàm - Ôn tập (6:11)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bETeAi8CZdM</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 19 - Hàm và Biến (6:01)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wVffaCJ6SQM</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 19 - Hàm và Biến - Ôn tập (7:14)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=d6t4Q-Aj-2k</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 20 - Hàm và file (11:46)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=flYbSavd-Bo</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 20 - Hàm và file - Ôn tập (11:17)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6hb73uHpokw</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 21 - Hàm có thể trả về giá trị (7:43)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UGUj91vuzew</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Bài 21 - Hàm có thể trả về giá trị - Ôn tập (9:35)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Kqpetq7o_OY</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Tài liệu biểu thức chính quy - PHP regular expression by Lưu Trường Hải Lân</name>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+<items>
+<item>
+<title>Video 01 - Tập hợp ký hiệu trong biểu thức chính quy - PHP Regular Expression (32:15)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OLDXFjwfBdU</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 02 - Tập hợp ký hiệu trong biểu thức chính quy - PHP Regular Expression (30:48)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JIeXZ086zDU</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 03 - Tập hợp ký hiệu trong biểu thức chính quy - PHP Regular Expression (20:12)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AH_KUAcIxTQ</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 04 - Tập hợp ký hiệu trong biểu thức chính quy - PHP Regular Expression (20:36)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1BlCQfAXjZs</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 05 - Kiểm tra giá trị đầu vào input - PHP Validate (18:18)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_Em84KWgZro</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 06 - Kiểm tra giá trị đầu vào input - PHP Validate (22:40)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fJIzS-fpxR0</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 07 - Kỹ thuật quét bảng ngoại hối của Vietcombank - PHP Regular Expression (23:48)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KxKYpM-HRp8</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 08 - Kỹ thuật quét bảng ngoại hối của Vietcombank - PHP Regular Expression (31:00)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DSAX4aG8ZSw</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 09 - Kỹ thuật quét tin tức từ Vnexpress.net - PHP Regular Expression (10:00)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qulLG9HUZe0</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 10 - Kỹ thuật quét tin tức từ Vnexpress.net - PHP Regular Expression (21:42)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gPvHKvkbbaY</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 11 - Kỹ thuật quét tin tức từ dantri.com.vn - PHP Regular Expression (17:57)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=P5rH13zTX5s</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Video 12 - Kỹ thuật quét tin tức từ dantri.com.vn - PHP Regular Expression (16:42)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0r3yYXLQisc</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Tìm hiểu Regular Expression by ewebvn</name>
+<thumbnail>https://i.ytimg.com/i/p9QPIKtOgccJ7KmSPLRzTQ/1.jpg</thumbnail>
+<items>
+<item>
+<title>Tìm hiểu Regular Expression by ewebvn (49:37)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=m8HCENJ4TXM</link>
+<thumbnail>https://i.ytimg.com/i/p9QPIKtOgccJ7KmSPLRzTQ/1.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Learn Python the Hard Way by Barton Poulson</name>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+<items>
+<item>
+<title>Welcome - Learn Python the Hard Way (1:53)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=F9kC70vhRnw</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 00 - The Setup - Learn Python the Hard Way (15:48)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=QQ1ol6E_9oo</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 01 - A Good First Program - Learn Python the Hard Way (11:04)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=k-SyGaRk8YY</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 02 - Comments and Pound Characters - Learn Python the Hard Way (7:29)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vT9mkJYcQVY</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 03 - Numbers and Math - Learn Python the Hard Way (10:25)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZOiGnTPBAy4</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 04 - Variables and Names - Learn Python the Hard Way (8:09)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=atXS-XgUvuE</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 05 - More Variables and Printing - Learn Python the Hard Way (8:40)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=urzbUpdpxN8</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 06 - Strings and Text - Learn Python the Hard Way (10:05)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9KaErBEYHKA</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 07 - More Printing - Learn Python the Hard Way (5:16)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ei4HYtvtHcY</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 08 - Printing, Printing - Learn Python the Hard Way (5:23)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ayLBifwkKeI</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 09 - Printing, Printing, Printing - Learn Python the Hard Way (5:29)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3RhBNdv8iLQ</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 10 - What Was That? - Learn Python the Hard Way (6:24)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2R576xQejwo</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 11 - Asking Questions - Learn Python the Hard Way (6:33)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LEkmJRg51qQ</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 12 - Prompting People - Learn Python the Hard Way (5:50)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2ZdN08AR0jI</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 13 - Parameters, Unpacking, Variables - Learn Python the Hard Way (5:04)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ceIJdwriuKc</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 14 - Prompting and Passing - Learn Python the Hard Way (8:12)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=QfoszA9goDo</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 15 - Reading Files - Learn Python the Hard Way (8:04)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GkpanN59MTI</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 16 - Reading and Writing Files - Learn Python the Hard Way (12:43)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DwvSntCSf-0</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 17 - More Files - Learn Python the Hard Way (12:13)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kH7XoEZBkj8</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 18 - Names, Variables, Code, Functions - Learn Python the Hard Way (8:33)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=llK_4FTHOZQ</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 19 - Functions and Variables - Learn Python the Hard Way (5:54)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=n0C91YH3aQI</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 20 - Functions and Files - Learn Python the Hard Way (9:51)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hbH89UCg9rM</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 21 - Functions Can Return Something - Learn Python the Hard Way (8:26)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=QH8LfS-29JE</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 22 - What Do You Know So Far? - Learn Python the Hard Way (6:50)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8nmekdC2r-c</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 23 - Read Some Code - Learn Python the Hard Way (7:05)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xVSE1YpRIVo</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 24 - More Practice - Learn Python the Hard Way (13:54)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1v1XMbVxQu0</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 25 - Even More Practice - Learn Python the Hard Way (18:32)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sNmLKBsOjto</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 26 - Congratulations, Take a Test! - Learn Python the Hard Way (8:48)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N9e2SH2pwns</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 27 - Memorizing Logic - Learn Python the Hard Way (5:43)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eOV72NHnK4Q</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 28 - Boolean Practice - Learn Python the Hard Way (11:05)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=cqsdz8qb-Wo</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 29 - What If - Learn Python the Hard Way (5:49)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yZHPUvoSKeA</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 30 - Else and If - Learn Python the Hard Way (5:07)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Sww4qQq8_tU</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 31 - Making Decisions - Learn Python the Hard Way (9:34)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pXG2uKTZl8U</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 32 - Loops and Lists - Learn Python the Hard Way (11:21)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=EDxRFmuTjsc</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 33 - While Loops - Learn Python the Hard Way (11:59)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Vkk92omL8-8</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 34 - Accessing Elements of Lists - Learn Python the Hard Way (7:05)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gzqRMQOhsNw</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Ex 35 - Branches and Functions - Learn Python the Hard Way (10:28)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=J6aHn0xyCCI</link>
+<thumbnail>https://yt3.ggpht.com/-SeiGqP6PKvI/AAAAAAAAAAI/AAAAAAAAAAA/3NKqqfiwqCw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>REGEX Tutorial Regular Expressions by Derek Banas</name>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+<items>
+<item>
+<title>REGEX Tutorial Regular Expressions - part 1 (11:53)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DRR9fOXkfRE</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>REGEX Tutorial Regular Expressions - part 2 (10:55)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FCFdgymqpUI</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>REGEX Tutorial Regular Expressions - part 3 (10:34)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lvGtejG69zg</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Python 2.7 Tutorial by Derek Banas</name>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+<items>
+<item>
+<title>Python 2.7 Tutorial - Part 1 (13:32)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UQi-L-_chcc</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 2 (10:58)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OHydo5znDE0</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 3 (12:20)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5uf6wGL8B7g</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 4 (8:42)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TXYtFZIMkqc</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 5 (6:56)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SEP9lOclPik</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 6 (10:53)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Xa7Z-dATK-A</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 7 (7:38)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9MnXDaIQEqg</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 8 (11:47)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=eTWuawfXwcY</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 9 (6:47)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oGG1RDKceL4</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 10 (8:21)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pPNMaafA07c</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 11 (6:26)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=euWPfjhaAts</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 12 SQLite (12:30)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ll_ufNL5rDA</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 13 Website Scraping (10:50)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ap_DlSrT-iE</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 14 (7:05)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fO_6K4kDp_Y</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 15 Tkinter GUI (9:46)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uh6AdDX7K7U</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 16 Tkinter (12:11)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kekZZDz99PY</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 17 (5:44)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=z8iXhhlYcH8</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python 2.7 Tutorial - Part 18 (9:02)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=c3M1Ei-hYC4</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Python Tutorial by  Derek Banas</name>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+<items>
+<item>
+<title>Python How to Program - Part 1 (9:48)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fdv1NlEZWro</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python How to Program - Part 2 (13:12)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nV7f_FgZJIA</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python How to Program - Part 3 (12:19)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Xp6XrU-H7ig</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python How to Program - Part 4 (13:14)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YiLiCxq1QX8</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python How to Program - Part 5 (7:46)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Z-HpXbhVuGo</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python How to Program - Part 6 (13:27)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pF7xdh4DW-o</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python How To Program - Part 7 (12:38)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=L-BePDdwvmA</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Create Automated Websites with Python (9:24)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9B-GSjlWZuQ</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Programming (43:16)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N4mEzFDjqtA</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Python Web Scraping Tutorial by Chris Reeves</name>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+<items>
+<item>
+<title>Python Web Scraping Tutorial - part 1 (Intro To Web Scraping) [6:13]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=E7wB__M9fdw</link>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Web Scraping Tutorial - part 2 (Getting Page Source) [9:10]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kPhZDsJUXic</link>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Web Scraping Tutorial - part 3 (Downloading Stock Data) [14:04]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=f2h41uEi0xU</link>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Web Scraping Tutorial - part 4 (Downloading Every Stock Price) [23:32]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Mjjt__c4syY</link>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Web Scraping Tutorial - part 5 (Network Requests) [16:00]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5FoSwMZ4uJg</link>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Web Scraping Tutorial - part 6 (Json Response) [10:55]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qbEN3boz7_M</link>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Web Scraping Tutorial - part 7 (Getting 1 Minute Stock Data) [14:49]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1RZRxJPVAC8</link>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Python Web Scraping Tutorial - part 8 (Free Stock Data) [23:06]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5-OWLYyHUR0</link>
+<thumbnail>https://yt3.ggpht.com/-4pexZ6zpJSM/AAAAAAAAAAI/AAAAAAAAAAA/Zy9kv4Ffrq4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name>Beautiful Soup</name>
+<thumbnail></thumbnail>
+<items>
+<item>
+<title>Scrape Websites with Python + Beautiful Soup 4 + Requests -- Coding with Python (34:35)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3xQTJi2tqgk</link>
+<thumbnail>https://yt3.ggpht.com/-BqCLriRx_j4/AAAAAAAAAAI/AAAAAAAAAAA/2jA_bOX7V8c/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>Parsing With Python's BeautifulSoup (14:21)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=keefYknSbt4</link>
+<thumbnail>https://yt3.ggpht.com/-NxYAtLvpIzI/AAAAAAAAAAI/AAAAAAAAAAA/sQ5HRbcBBjQ/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>BeautifulSoup: Web Scraping with Python. Part 1/3 (47:22)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=x9lXgsGxhVM</link>
+<thumbnail>https://yt3.ggpht.com/-lJobmVkBQwU/AAAAAAAAAAI/AAAAAAAAAAA/kJPH4S0QEvM/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>BeautifulSoup: Web Scraping with Python. Part 2/3 (14:34)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UgdW7lWEpJA</link>
+<thumbnail>https://yt3.ggpht.com/-lJobmVkBQwU/AAAAAAAAAAI/AAAAAAAAAAA/kJPH4S0QEvM/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+<item>
+<title>BeautifulSoup: Web Scraping with Python. Part 3/3 (28:04)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mGUSgNlCE5Q</link>
+<thumbnail>https://yt3.ggpht.com/-lJobmVkBQwU/AAAAAAAAAAI/AAAAAAAAAAA/kJPH4S0QEvM/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+</channels>
+
+
