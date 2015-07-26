@@ -212,7 +212,7 @@ Internet [COLOR red]adult TV and videos [COLOR white]from various sources.
     </extension>
 </addon>
 
-<addon id="repository.AznKodi" name="AznKodi" version="1.0.0" provider-name="AznKodi">
+<addon id="repository.AznKodi" name="AznKodi Repository" version="1.0.0" provider-name="AznKodi">
 	<extension point="xbmc.addon.repository" name="VietKodi Addon Repository">
 		<info compressed="false">https://github.com/AznKodi/repository.AznKodi/raw/master/addons.xml</info>
 		<checksum>https://github.com/AznKodi/repository.AznKodi/raw/master/addons.xml.md5</checksum>
