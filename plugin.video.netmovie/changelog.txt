@@ -1,0 +1,5 @@
+v 1.1.13
+Reduced icon size to save space
+
+v 1.0.0
+Initial release

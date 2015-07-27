@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.znetadult"
+       name="znet[COLOR red]adult[COLOR yellow]18+[/COLOR]"
+       version="1.0.7"
+       provider-name="DaveLN">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR red]Adult[/COLOR] TV and videos</summary>
+    <description>Internet [COLOR red]adult TV and videos [COLOR white]from various sources.
+    
+[COLOR red][B]WARNING:[/B] 
+[COLOR red]You must be[COLOR yellow] at least 18 years old[COLOR red] or[COLOR yellow] over the legal age where you live or use this addon[COLOR red] to watch adult contents.[/COLOR]</description>
+	<disclaimer lang="en">
+[COLOR lime]The streaming media are found via website(s). 
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>		  
+    <platform>all</platform>
+  </extension>
+</addon>

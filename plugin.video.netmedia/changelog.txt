@@ -1,0 +1,12 @@
+Download link for YouTube add-on:
+https://github.com/bromix/plugin.video.youtube
+
+Download link for Dailymotion add-on:
+https://github.com/AddonScriptorDE/plugin.video.dailymotion_com
+
+v 1.1.5
+Use local playlists
+Reduced icon size to save space
+
+v 1.0.0
+Initial release

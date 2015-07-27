@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.netmedia"
+       name="*netmedia"
+       version="1.1.5"
+       provider-name="DaveLN">
+  <requires>			
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Video and audio from various websites</summary>
+    <description>Play video and audio from many sources.</description>	
+	<disclaimer lang="en">
+[COLOR lime]The streaming media are pulled from online provider(s). 
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>		
+    <platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website>http://www.youtube.com/</website>
+		<website>http://www.dailymotion.com/</website>
+		<website>http://www.dnrtv.org.vn/tvod/chuyen-de/suc-khoe</website>     
+		<email></email>
+		<mainsource>https://github.com/daveln/repository.daveln</mainsource>    
+		<source>https://github.com/bromix/plugin.video.youtube</source> 
+		<source>https://github.com/AddonScriptorDE/plugin.video.dailymotion_com</source>     
+  </extension>
+</addon>

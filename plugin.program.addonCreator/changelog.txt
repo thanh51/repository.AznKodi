@@ -1,0 +1,49 @@
+v 0.0.10
+Fixed typing error (v 0.0.5 - 0.0.9) - default.py (files)
+
+v 0.0.9
+New addon now can read m3u playlists containing empty lines.
+
+v 0.0.8
+Changed regex rule for m3u and its thumbnail.
+Fixed new addon's Search (typing error)
+Shortened new addon's codes
+Updated instruction.
+
+v 0.0.7
+Added Search 
+Divided playlists into their own groups.
+
+v 0.0.6
+Now can play links from YouTube's users and channels
+Can use http://www... for YouTube and DailyMotion
+
+v 0.0.5
+a. Now can pass links to other addons. 
+YouTube:
+plugin://plugin.video.youtube/play/?video_id=XXXXXX 
+plugin://plugin.video.youtube/?action=play_video&videoid=XXXXXX
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXXXXX
+DailyMotion:
+plugin://plugin.video.dailymotion_com/?mode=playVideo&amp;url=XXXXXX
+
+b. Able to show thumbnails for m3u playlist if use the form below 
+(must have tvg-logo="link to thumbnail" in m3u)
+#EXTINF:-1 tvg-logo="link to thumbnail" group-title="AnyGroup", Name of media
+http://www.link_to_media
+
+v 0.0.4
+Added option to enter URLs for new addon.
+Added option to save zipfile to desired local location.
+
+v 0.0.3
+Play local/online m3u/xml playlists.
+
+v 0.0.2
+Minor update
+
+v 0.0.1
+Initial release
+Play local m3u/xml playlists only.
+
+NOTE: Above notes are for add-on created by this Add-on Creator.
