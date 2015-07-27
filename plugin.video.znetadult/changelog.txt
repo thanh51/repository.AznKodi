@@ -1,6 +1,0 @@
-v 1.0.7
-Use local playlists
-Reduced icon size to save space
-
-v 1.0.0
-Initial release
