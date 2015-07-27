@@ -1,0 +1,15 @@
+<playercorefactory>
+  <players>
+    <player name="VLC" type="ExternalPlayer">
+     <filename>C:\Program Files (x86)\VideoLAN\VLC\vlc.exe</filename>
+     <args>"{1}"</args>
+     <hidexbmc>false</hidexbmc>
+     <hideconsole>false</hideconsole>
+     <warpcursor>none</warpcursor>
+    </player>
+  </players>
+
+  <rules action="prepend">
+    <rule name="Playtype" filetype="mkv|mp4|avi" player="VLC"/>
+  </rules>
+</playercorefactory> 
