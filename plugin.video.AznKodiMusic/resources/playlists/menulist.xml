@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<!-- Categories: Main Menu, Religion, OverseaNews, NewsInVN, Children, 
+Music, Karaoke, CaiLuong, Sitcom, TV Shows, Sports, Travel, Medical, Cooking, 
+MakeUp, AudioBook, Immigration, AFV, Dicovery & Animal, OtherStuff -->
+
+<stream>
+
+<!------------ Main Menu ----------------->
+
+<item>
+<title>Main Menu - Tôn Giáo</title>
+<link>TonGiao</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - thanh51's collection</title>
+<link>Thanh51</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu learn_kodi - Regex, Python, XBMC, Kodi ...</title>
+<link>tutorial</link>
+<thumbnail>tutorial.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu Plus - Tin Tức & TV</title>
+<link>TinTuc</link>
+<thumbnail>tintuctv.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Thiếu Nhi</title>
+<link>ThieuNhi</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Ca Nhạc</title>
+<link>CaNhac</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Hát Karaoke</title>
+<link>Karaoke</link>
+<thumbnail>karaoke.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Cải Lương</title>
+<link>Karaoke</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Hài Kịch & Talk Shows</title>
+<link>HaiKich</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - TV Shows</title>
+<link>TVShows</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Thể Thao & Thể Dục</title>
+<link>TheThao</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Du Lịch & Cuộc Sống</title>
+<link>DuLich</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Y Khoa & Sức Khoẻ</title>
+<link>YKhoa</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Ẩm Thực Tình Yêu</title>
+<link>NauAn</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Trang Điểm</title>
+<link>TrangDiem</link>
+<thumbnail>trangdiem.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Đọc Truyện</title>
+<link>DocTruyen</link>
+<thumbnail>doctruyen.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Di trú và Nhập Tịch Hoa Kỳ</title>
+<link>DiTru</link>
+<thumbnail>ditru.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - America's Funniest Videos</title>
+<link>AFV</link>
+<thumbnail>AFV.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Dicovery Channels & Animal Planet</title>
+<link>DCAP</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Những Mục Khác</title>
+<link>MucKhac</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<!-------------- Religion ---------------->
+
+<item>
+<title>Religion - Viet Catholic News</title>
+<link>https://www.youtube.com/user/VietCatholicNews</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - TV Ánh Sáng Tin Mừng</title>
+<link>https://www.youtube.com/user/tvastm</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Đức Mẹ TV</title>
+<link>https://www.youtube.com/user/chuacuuthe</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Đức Mẹ Măng Đen</title>
+<link>https://www.youtube.com/user/DucMeMangDen</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - KINH MÂN CÔI online</title>
+<link>https://www.youtube.com/user/kinhmancoionline</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phim Công Giáo</title>
+<link>https://www.youtube.com/user/PhimCongGiaoVN</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phim Công Giáo 2</title>
+<link>https://www.youtube.com/user/PhimCongGiao2</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thánh Ca</title>
+<link>https://www.youtube.com/user/ThanhCaHD</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thánh Ca Không Lời</title>
+<link>https://www.youtube.com/user/Thanhcakhongloi</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Tin Lành TiVi</title>
+<link>https://www.youtube.com/user/tinlanhtv</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Tin Lành Orange</title>
+<link>https://www.youtube.com/channel/UCd8tHv1A1VsTL7WS9yQ3eGg</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Giảng Luận Cơ Đốc</title>
+<link>https://www.youtube.com/user/upnhacnee</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thư viện Cơ Đốc</title>
+<link>https://www.youtube.com/user/cdnvn</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thánh Nhạc</title>
+<link>https://www.youtube.com/user/CDNVN00</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thư Viện Phật Giáo</title>
+<link>https://www.youtube.com/user/thuvienphatgiao</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Niệm Phật Thành Phật</title>
+<link>https://www.youtube.com/user/NiemPhatThanhPhat</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phật Âm Video</title>
+<link>https://www.youtube.com/user/phatamvideo</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Quy Y Tam Bảo</title>
+<link>https://www.youtube.com/user/TANGTRUNGTHANG</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phật Pháp Tăng</title>
+<link>https://www.youtube.com/channel/UCNE3UFyedJ_3_ZEiuZkioYw</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - NAM MÔ A DI ĐÀ PHẬT</title>
+<link>https://www.youtube.com/user/nammoadidaphatnew</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phật Pháp Nhiệm Màu</title>
+<link>https://www.youtube.com/channel/UCP9jSXwNXTEoql3cZSoI4Yw</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Linh Minh Trạm Tịch</title>
+<link>https://www.youtube.com/user/nguynlinhtam</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phật Giáo Hòa Hảo</title>
+<link>https://www.youtube.com/user/nhatsonvan1981</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - PHẬT GIÁO HÒA HẢO (PGHH)</title>
+<link>https://www.youtube.com/user/hoahao185</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - PHẬT GIÁO HÒA HẢO - PGHH</title>
+<link>https://www.youtube.com/user/nguoihoahao</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - PHẬT GIÁO HÒA HẢO (PGHH)</title>
+<link>https://www.youtube.com/user/giaolypghh</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - TỦ SÁCH NÓI CAO ĐÀI</title>
+<link>https://www.youtube.com/channel/UCtHYWzR7fBcqFMhgHw1nsNg</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Religion - Cao Đài Ban Chỉnh Đạo</title>
+<link>https://www.youtube.com/user/caodaibanchinhdaoorg</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<!------------ thanh51 --------------->
+
+<item>
+<title>thanh51 - VTC2 TV</title>
+<link>https://www.youtube.com/user/vtc2tv</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - TheChuChu TV</title>
+<link>https://www.youtube.com/user/TheChuChuTV</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - NHẠC VÀNG PLUS</title>
+<link>https://www.youtube.com/user/NhacVangPlus</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - NHẠC VÀNG TUYỂN CHỌN 2</title>
+<link>https://www.youtube.com/user/nhacvangtuyenchon2</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - NVB TUBE</title>
+<link>https://www.youtube.com/user/nvbtube4474</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - Documentary & Life Discovery HD Channel</title>
+<link>https://www.youtube.com/user/LifeDiscoveryDocu</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - HD Documentary Channel</title>
+<link>https://www.youtube.com/user/HDdocumentaryChannel</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - Planet Doc Full Documentaries</title>
+<link>https://www.youtube.com/user/PlanetDocChannel</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - National Geo & Discovery HD Channel</title>
+<link>https://www.youtube.com/user/NationalGeoTVchannel</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - HD Universe Channel</title>
+<link>https://www.youtube.com/user/HDUniverseChannel</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - TheGoldProspector D'arcy Cooper</title>
+<link>https://www.youtube.com/user/hixonAu</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - Imperia Toys</title>
+<link>https://www.youtube.com/user/ImperiaToys</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<!------------ OverseaNews --------------->
+
+<item>
+<title>OverseaNews - SBTN USA</title>
+<link>https://www.youtube.com/user/sbtnofficial</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Houston</title>
+<link>https://www.youtube.com/user/sbtnhosuton</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Boston</title>
+<link>https://www.youtube.com/user/newssbtnboston</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Canada</title>
+<link>https://www.youtube.com/user/thoibaocanada</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Úc Châu</title>
+<link>https://www.youtube.com/user/SBTNAUS</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Paris</title>
+<link>https://www.youtube.com/user/paris2013sbtn</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Viet Catholic News</title>
+<link>https://www.youtube.com/user/VietCatholicNews</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Người Việt Online</title>
+<link>https://www.youtube.com/user/NguoiVietOnline</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Phố Bolsa TV</title>
+<link>https://www.youtube.com/user/PhoBolsaTV</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - officialVietFaceTV</title>
+<link>https://www.youtube.com/user/officialVietFaceTV</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - VA TV Online</title>
+<link>https://www.youtube.com/user/VATVONLINE</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - LSTV Network</title>
+<link>https://www.youtube.com/user/LSTVNETWORK</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Viet Bay</title>
+<link>https://www.youtube.com/user/vietbaytv</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - VIETV</title>
+<link>https://www.youtube.com/user/VIETVnetwork</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Việt News TV</title>
+<link>https://www.youtube.com/user/vietnewstelevision</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Việt Weekly TV</title>
+<link>https://www.youtube.com/user/VietWeeklyEtc</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Việt Weekly</title>
+<link>https://www.youtube.com/user/vietweeklytube</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Van TV Houston</title>
+<link>https://www.youtube.com/channel/UCj-SnkM-BNrsgsEM52TvmVw</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - TDBroadcasting</title>
+<link>https://www.youtube.com/user/TDBroadcasting</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - NWVietnameseNews</title>
+<link>https://www.youtube.com/user/NWVietnameseNews</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Truyền Hình Cali Today</title>
+<link>https://www.youtube.com/user/Truyenhinhvietnam1</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Quê Hương Media</title>
+<link>https://www.youtube.com/user/quehuongradio</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Thư Viện Toàn Cầu</title>
+<link>http://www.dailymotion.com/rss/user/ThuVienToanCau/1</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Truyền Hình Online VTO của Người Việt Tự Do Tiểu Bang Utah</title>
+<link>https://www.youtube.com/user/1734ize</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - VOA</title>
+<link>https://www.youtube.com/user/VOATiengVietVideo</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - BBC</title>
+<link>https://www.youtube.com/user/BBCVietnamese</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - RFA</title>
+<link>https://www.youtube.com/user/RFAVietnamese</link>
+<thumbnail>haingoai.png</thumbnail>
+</item>
+
+<!------------- NewsInVN ----------------->
+
+<item>
+<title>NewsInVN - Truyền Hình Tuổi Trẻ Link 1</title>
+<link>https://www.youtube.com/user/truyenhinhtuoitre</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Truyền Hình Tuổi Trẻ Link 2</title>
+<link>http://www.dailymotion.com/rss/user/truyenhinhtuoitre/1</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VTV - Đài Truyền Hình Việt Nam</title>
+<link>https://www.youtube.com/user/VTVgo</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Kênh Truyền Hình VTC 14</title>
+<link>https://www.youtube.com/user/KenhTruyenHinhVTC14</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VNews - Truyền Hình Thông Tấn</title>
+<link>https://www.youtube.com/channel/UCfA4BYQdTPU9ItmQOauuFEQ</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Truyền Hình Thông Tấn</title>
+<link>https://www.youtube.com/user/truyenhinhthongtan</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VIETNAM NEWS AGENCY</title>
+<link>http://www.dailymotion.com/rss/user/TTXVN/1</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Truyền Hình Vĩnh Long</title>
+<link>https://www.youtube.com/user/VinhLongTV</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - LET'S VIET TV</title>
+<link>https://www.youtube.com/user/letsvietvn</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VTV4 on the Go</title>
+<link>https://www.youtube.com/user/VTV4go</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VTVLife</title>
+<link>https://www.youtube.com/user/VTVLife</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - POPS TV VIỆT NAM</title>
+<link>https://www.youtube.com/user/POPSTVVIETNAM</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VTCTube</title>
+<link>https://www.youtube.com/user/vtctv</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Zing TV</title>
+<link>https://www.youtube.com/user/ZingTVVN</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - FAP TV</title>
+<link>https://www.youtube.com/user/FAPtivi</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Giải Trí TV</title>
+<link>https://www.youtube.com/user/ChannelGiaiTriTV</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - htv2channel</title>
+<link>https://www.youtube.com/user/htv2channel</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Yeah1 Family TV - VTC4</title>
+<link>https://www.youtube.com/channel/UCo_QG56Ijk2iklFgpUOVKIA</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - YAN News</title>
+<link>https://www.youtube.com/user/YanNewsTube</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - YAN TV</title>
+<link>https://www.youtube.com/user/YanTvTurnsUon</link>
+<thumbnail>vietnam.png</thumbnail>
+</item>
+
+<!------------ Children ------------------>
+
+<item>
+<title>Children - Thế Hệ Trẻ TV</title>
+<link>https://www.youtube.com/user/TheHeTreTV</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - Gương Mặt Thân Quen Nhí</title>
+<link>https://www.youtube.com/user/GMTQNHI</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - POPS Kids</title>
+<link>https://www.youtube.com/user/popskids</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - Thiếu Nhi Nhạc</title>
+<link>https://www.youtube.com/user/thieunhinhac</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - Phim Hoạt Hình Việt Nam</title>
+<link>https://www.youtube.com/user/CartoonVietNam</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - Children's Music</title>
+<link>https://www.youtube.com/user/Childrenmusic1</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - Cartoon Network</title>
+<link>https://www.youtube.com/user/cartoonnetwork</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - Little Baby Bum</title>
+<link>https://www.youtube.com/user/LittleBabyBum</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - Barbie Film Collection</title>
+<link>https://www.youtube.com/user/BarbieFilmCollection</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - Disney Cars Toy Club DCTC</title>
+<link>https://www.youtube.com/user/MaterCarClub</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Children - ABC Kid TV</title>
+<link>https://www.youtube.com/user/checkgate</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<!------------ Music --------------------->
+
+<item>
+<title>Music - Thuý Nga Paris By Night</title>
+<link>https://www.youtube.com/user/TNPBN</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Asia</title>
+<link>https://www.youtube.com/user/TrungTamAsiaChannel</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Vân Sơn</title>
+<link>https://www.youtube.com/user/VanSonOnline</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Bước Chân Hai Thế Hệ</title>
+<link>https://www.youtube.com/user/buocchanhaithehe</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - POPS MUSIC</title>
+<link>https://www.youtube.com/user/POPSVIETNAM</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Blue Ocean Music USA</title>
+<link>https://www.youtube.com/user/blueoceanmusicusa</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Nhạc Việt Official</title>
+<link>https://www.youtube.com/user/NhacvietOfficial</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Nhạc Vàng Hải Ngoại</title>
+<link>https://www.youtube.com/user/NhacvietVEVO</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Zing MP3</title>
+<link>https://www.youtube.com/user/ZingMp3Official</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Nhạc Số</title>
+<link>https://www.youtube.com/user/nhacsoofficial</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Nhạc Của Tui</title>
+<link>https://www.youtube.com/user/nhaccuatuiofficial</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Đồng Giao</title>
+<link>https://www.youtube.com/user/donggiaoofficial</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Gala Nhạc Việt</title>
+<link>https://www.youtube.com/user/galanhacviet</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Nhạc Vàng NTPlus</title>
+<link>https://www.youtube.com/user/NhacvangNTPlus</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Sắc Việt</title>
+<link>https://www.youtube.com/user/sacviet</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Yeah1 Music</title>
+<link>https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Như Quỳnh</title>
+<link>https://www.youtube.com/user/nhuquynhtube</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Lam Trường</title>
+<link>https://www.youtube.com/user/LamTruongOfficial</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Mỹ Tâm</title>
+<link>https://www.youtube.com/user/mytamofficial</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Đàm Vĩnh Hưng</title>
+<link>https://www.youtube.com/user/DamVinhHungPOPS</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Đan Trường</title>
+<link>https://www.youtube.com/user/DanTruongPOPS</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Blue Ocean Music</title>
+<link>http://www.dailymotion.com/rss/user/blueoceanmusic_chanel/1</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Ca Nhạc</title>
+<link>http://www.dailymotion.com/rss/user/Music24h/1</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Thế giới Giải Trí</title>
+<link>http://www.dailymotion.com/rss/user/VideoGiaiTri/1</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Ca Nhạc Việt Nam</title>
+<link>http://www.dailymotion.com/rss/user/TaiSON1973/1</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<!------------ Karaoke ------------------->
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]ViCi karaoke online</title>
+<link>https://www.youtube.com/user/vcbuikara1993</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]KARAOKE YOU SING FREE</title>
+<link>https://www.youtube.com/user/nguyenhoangthanh1</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 1</title>
+<link>https://www.youtube.com/user/TNOTV1</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 2</title>
+<link>https://www.youtube.com/user/letaiducks</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 3</title>
+<link>https://www.youtube.com/channel/UCqLIjOVf9_YMNeydzpEXf1w</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 4</title>
+<link>https://www.youtube.com/channel/UCvfYGLpsIShZvMFAIubbo4Q</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 5</title>
+<link>https://www.youtube.com/channel/UCwnnS6DdCQ8VOr4SH4CbV1Q</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 6</title>
+<link>https://www.youtube.com/user/NguyenTanLuc2</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 7</title>
+<link>https://www.youtube.com/channel/UCN0AKDjI-TIbAmUGdS9Rc0A</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 8</title>
+<link>https://www.youtube.com/user/nhacsongnguyenthanh</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR yellow]Vietnamese[/COLOR][COLOR magenta] - [/COLOR]Karaoke 9</title>
+<link>https://www.youtube.com/user/karaokephamvanvang</link>
+<thumbnail>vietkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR lime]English[/COLOR][COLOR magenta] - [/COLOR]Karaoke On VEVO</title>
+<link>https://www.youtube.com/user/KaraokeOnVEVO</link>
+<thumbnail>englishkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR lime]English[/COLOR][COLOR magenta] - [/COLOR]The KARAOKE Channel</title>
+<link>https://www.youtube.com/user/TheKARAOKEChannel</link>
+<thumbnail>englishkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR lime]English[/COLOR][COLOR magenta] - [/COLOR]Sing Sing Karaoke </title>
+<link>https://www.youtube.com/user/singkingkaraoke</link>
+<thumbnail>englishkaraoke.png</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - [COLOR lime]English[/COLOR][COLOR magenta] - [/COLOR]Sing Songs Music</title>
+<link>https://www.youtube.com/user/singsongsmusic</link>
+<thumbnail>englishkaraoke.png</thumbnail>
+</item>
+
+<!------------ CaiLuong -------------------->
+
+<item>
+<title>CailuongTV - [COLOR yellow]Cải Lương [COLOR cyan]TV[/COLOR]</title>
+<link>http://206.190.140.142:1935/liveStream/cailuong_1/playlist.m3u8</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Lệ Thuỷ</title>
+<link>https://www.youtube.com/user/micovn</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Bạch Tuyết</title>
+<link>https://www.youtube.com/user/fukudahoushin1</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Ngọc Huyền</title>
+<link>https://www.youtube.com/user/NgocHuyenZone</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - cailuongvietnam.vn</title>
+<link>https://www.youtube.com/channel/UCM85iZlQzyEV3Ag9Bh2v54A</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - cailuongvietnam.com</title>
+<link>https://www.youtube.com/user/tancogiaoduyencp</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Việt Nam Cải Lương</title>
+<link>https://www.youtube.com/channel/UCYK1xo7CRbGIhNyfz4MyGkQ</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương Online</title>
+<link>https://www.youtube.com/channel/UCPR1RT-nvozDhweXtHh6Zkw</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương Miền Nam</title>
+<link>https://www.youtube.com/channel/UCMKsP2qCocvWTDP5hfNm_Tw</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Tân Cổ Giao Duyên</title>
+<link>https://www.youtube.com/user/trutinhvietnam2014</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 1</title>
+<link>https://www.youtube.com/user/MrMinhRang</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 2</title>
+<link>https://www.youtube.com/user/cailuongtoiyeutv</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 3</title>
+<link>https://www.youtube.com/user/cailuongluong2015</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 4</title>
+<link>https://www.youtube.com/channel/UCcUyBre7IIdskndDbBe_dRg</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 5</title>
+<link>https://www.youtube.com/channel/UCrfhSe0PnEYb-Y_ARusKwHQ</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 6</title>
+<link>https://www.youtube.com/user/sirnguyenhha</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<!------------ Sitcom -------------------->
+
+<item>
+<title>Sitcom - Tiệm Bánh Hoàng Tử Bé - Kim Chi Cà Pháo</title>
+<link>https://www.youtube.com/user/tiembanhhoangtube</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - Vân Sơn Hài Collection</title>
+<link>http://www.dailymotion.com/rss/user/danduphim88/1</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - Ơn Giời Cậu Đây Rồi</title>
+<link>https://www.youtube.com/user/ONGIOICAUDAYROIVTV3</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - Thư Giãn Cuối Tuần</title>
+<link>https://www.youtube.com/user/ChemChuoiVTV3</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - 5sonlinevietnam</title>
+<link>https://www.youtube.com/user/5sonlinevietnam</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - Cafe Cười</title>
+<link>https://www.youtube.com/user/cafecuoisenvang</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - Yeah1/NVU/Phở</title>
+<link>https://www.youtube.com/user/2idolshow</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - MC Việt Thảo</title>
+<link>https://www.youtube.com/user/mcvietthao</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<!------------ TV Shows ------------------>
+
+<item>
+<title>TiviShows - Tìm Kiếm Tài Năng Việt</title>
+<link>https://www.youtube.com/user/VTVShowbiz</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Thử Thách Cùng Bước Nhảy 2014</title>
+<link>https://www.youtube.com/user/sytycdvn</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Bếp Hát</title>
+<link>https://www.youtube.com/user/bephatvn</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Vui Ơi Là Vui</title>
+<link>https://www.youtube.com/user/gameshowVuiOiLaVui</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Cười Là Thua</title>
+<link>https://www.youtube.com/channel/UCGhoqIuOFPYneUs-Dnp1TVQ</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Người Bí Ẩn</title>
+<link>https://www.youtube.com/user/TVSHOWNGUOIBIAN</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - VN's Got Talent</title>
+<link>https://www.youtube.com/user/VNsGotTalent</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Nhân Tố Bí Ẩn</title>
+<link>https://www.youtube.com/user/nhantobianvietnam</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Bước Nhảy Hoàn Vũ Nhí</title>
+<link>https://www.youtube.com/user/btcbuocnhayhoanvunhi</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Vua Đầu Bếp Việt Nam</title>
+<link>https://www.youtube.com/user/vuadaubepvietnam</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Ai Là Triệu Phú</title>
+<link>https://www.youtube.com/user/ailatrieuphufull</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - VTV</title>
+<link>https://www.youtube.com/channel/UCsi9MraTO6b78y2xzB13UrA</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - VLOG Truyền Hình</title>
+<link>https://www.youtube.com/user/VLOGTruyenHinh</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Cuộc Đua Kỳ Thú</title>
+<link>https://www.youtube.com/user/CuocDuaKyThuVN</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Học Viện Ngôi Sao</title>
+<link>https://www.youtube.com/user/HocVienNgoiSao</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Gương Mặt Thân Quen</title>
+<link>https://www.youtube.com/user/YFSFVietnam</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Vũ Điệu Tuổi Xanh</title>
+<link>https://www.youtube.com/user/VuDieuTuoiXanh</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Đọ Sức Âm Nhạc</title>
+<link>https://www.youtube.com/user/dosucamnhac</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Giọng Hát Việt</title>
+<link>https://www.youtube.com/user/GiongHatViet1</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Tuyệt Đỉnh Tranh Tài</title>
+<link>https://www.youtube.com/user/tuyetdinhtranhtaiTV</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Thần Tượng Âm Nhạc</title>
+<link>https://www.youtube.com/user/vietnamidol3</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - X-Factor VN</title>
+<link>https://www.youtube.com/user/NhanToBiAn1</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<!------------- Sports ------------------->
+
+<item>
+<title>Sports - Thể Dục Thẩm Mỹ với MC Nguyễn Cao Kỳ Duyên</title>
+<link>https://www.youtube.com/user/nhochembitkhoc</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Thể Dục Thẩm Mỹ 1</title>
+<link>https://www.youtube.com/channel/UCplLrzVkLP31D0ymZ_q333A</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Thể Dục Thẩm Mỹ 2</title>
+<link>https://www.youtube.com/channel/UC3neDQB3isgEr0FqQyUJ44Q</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Thể Dục Thẩm Mỹ 3</title>
+<link>https://www.youtube.com/channel/UCMd8pzGXMqFjdZSogx_Oy6Q</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+
+<item>
+<title>Sports - Vovinam Thái Nguyên</title>
+<link>https://www.youtube.com/user/thanhnienxungkich</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Vovinam England</title>
+<link>https://www.youtube.com/user/VovinamEngland</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Thethao247vn</title>
+<link>https://www.youtube.com/user/Thethao247vn</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Bóng Đá</title>
+<link>https://www.youtube.com/user/cutinhofull</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Báo Bóng Đá</title>
+<link>https://www.youtube.com/user/bongdaplustv</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - VTV Sport</title>
+<link>https://www.youtube.com/user/VTVSport</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Tin Thể Thao</title>
+<link>http://www.dailymotion.com/rss/user/johny_huy/1</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - The Olympic Channel</title>
+<link>https://www.youtube.com/user/olympic</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Allsports Athletics</title>
+<link>https://www.youtube.com/user/AllSportsAthletics</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - ESPN</title>
+<link>https://www.youtube.com/user/ESPN</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Đô Vật WWE</title>
+<link>https://www.youtube.com/user/WWEFanNation</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - HBO Boxing</title>
+<link>https://www.youtube.com/user/HBOsports</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Glovesgymabc Gloves</title>
+<link>https://www.youtube.com/channel/UCYGlQcpAY_2UxEOCxTd1k5Q</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Kings of Boxing</title>
+<link>https://www.youtube.com/user/2112wildcat</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - NBA</title>
+<link>https://www.youtube.com/user/NBA</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Football News</title>
+<link>https://www.youtube.com/user/FootballNewsUS</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Swimming World</title>
+<link>https://www.youtube.com/user/SwimmingWorldSPI</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - USA Swimming</title>
+<link>https://www.youtube.com/user/USASwimmingOrg</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - US Open Tennis Championships</title>
+<link>https://www.youtube.com/user/USOPEN</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Sports - Australian Open TV</title>
+<link>https://www.youtube.com/user/australianopentv</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<!------------- Travel ------------------->
+
+<item>
+<title>Travel - Du Lịch Hoàn Mỹ</title>
+<link>https://www.youtube.com/user/DulichHoanmy</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lịch Việt Nam</title>
+<link>https://www.youtube.com/user/apttravelgroup</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lịch Thái Lan</title>
+<link>https://www.youtube.com/channel/UCj799b-m3Ve44vPoD1NDbxA</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Văn hóa Việt Nam</title>
+<link>https://www.youtube.com/user/vanhoaviettv</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Khám Phá Việt Nam</title>
+<link>https://www.youtube.com/user/KhamPhaVietNamVTV</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lịch Đất Việt</title>
+<link>https://www.youtube.com/user/datviettour198</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lịch Khát Vọng Việt</title>
+<link>https://www.youtube.com/user/dulichkhatvongviet</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du lịch Biển Đảo Phú Quốc</title>
+<link>https://www.youtube.com/user/phuquoctravelonline</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du lịch Anz</title>
+<link>https://www.youtube.com/user/dulichanz2</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Đi Du Lịch</title>
+<link>https://www.youtube.com/user/DiDuLichOnline</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Venus Travel VN</title>
+<link>https://www.youtube.com/user/venustravelvn</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Mekong Culture</title>
+<link>https://www.youtube.com/user/mekongculture</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Văn Hóa Miền Sông Nước</title>
+<link>https://www.youtube.com/user/miensongnuoc</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Đồng Tháp Quê Mình</title>
+<link>https://www.youtube.com/user/DThapquetoi</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lịch và Ẩm Thực Miền Tây Sông Nước</title>
+<link>https://www.youtube.com/user/dulichvaamthuc</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<!------------ Medical ------------------->
+
+<item>
+<title>Y Tế Đồng Nai - Y Khoa Tổng Quát</title>
+<link>http://www.dnrtv.org.vn/tvod/chuyen-de/suc-khoe</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<item>
+<title>Medical - Tin Tức Y Khoa</title>
+<link>https://www.youtube.com/user/CoPhamMD</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<item>
+<title>Medical - Kiến Thức Y Khoa</title>
+<link>https://www.youtube.com/user/kienthucykhoa</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<item>
+<title>Medical - Sức Khỏe Mỗi Ngày</title>
+<link>https://www.youtube.com/user/tringoai</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<item>
+<title>Medical - Tài Liệu Y Học</title>
+<link>https://www.youtube.com/user/TaiLieuYHoc</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<item>
+<title>Medical - Thư Viện Y Khoa</title>
+<link>https://www.youtube.com/channel/UCldPEiKvoHXuT6E4Zp5vCIg</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<!------------ Cooking ------------------->
+
+<item>
+<title>Cooking - Uyên Thi - Bếp Nhà Ta Nấu</title>
+<link>https://www.youtube.com/user/UyenThyCooking2013</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Asian Cooking Made Easy</title>
+<link>https://www.youtube.com/user/AsianCookingmadeEasy</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Ẩm Thực Tình Yêu</title>
+<link>https://www.youtube.com/user/amthuctinhyeu123</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Helen's Recipes</title>
+<link>https://www.youtube.com/user/HelenRecipes</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Xuân Hồng</title>
+<link>https://www.youtube.com/user/tdmaison</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Cathy Ha</title>
+<link>https://www.youtube.com/user/VietFoodie</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Món Ngon</title>
+<link>https://www.youtube.com/user/khoainv</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Sinh Tố</title>
+<link>http://www.dailymotion.com/rss/user/hocnauan/1</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<!------------ MakeUp -------------------->
+
+<item>
+<title>MakeUp - Michelle Phan</title>
+<link>https://www.youtube.com/user/MichellePhan</link>
+<thumbnail>trangdiem.png</thumbnail>
+</item>
+
+<item>
+<title>MakeUp - Quách Ánh Makeup Store</title>
+<link>https://www.youtube.com/channel/UCHQO9xPSROEHYHUk_T82l6w</link>
+<thumbnail>trangdiem.png</thumbnail>
+</item>
+
+<item>
+<title>MakeUp - Trang LalaBeautylady</title>
+<link>https://www.youtube.com/user/tranglala90</link>
+<thumbnail>trangdiem.png</thumbnail>
+</item>
+
+<item>
+<title>MakeUp - VietBeauty NailViet</title>
+<link>https://www.youtube.com/channel/UCrvDF3Rzt6qeFVjFwQM3rRw</link>
+<thumbnail>trangdiem.png</thumbnail>
+</item>
+
+<!------------ AudioBook ----------------->
+
+<item>
+<title>AudioBook - Nghe Đọc Truyện Online</title>
+<link>https://www.youtube.com/user/nghedoctruyenonline</link>
+<thumbnail>doctruyen.png</thumbnail>
+</item>
+
+<item>
+<title>AudioBook - Nghe Truyện Ma</title>
+<link>https://www.youtube.com/user/NgheTruyenMa</link>
+<thumbnail>doctruyen.png</thumbnail>
+</item>
+
+<item>
+<title>AudioBook - Video Books for You</title>
+<link>https://www.youtube.com/user/videobooksforyou</link>
+<thumbnail>doctruyen.png</thumbnail>
+</item>
+
+<item>
+<title>AudioBook - Truyện Audio Online</title>
+<link>https://www.youtube.com/user/AudioOnlineHay</link>
+<thumbnail>doctruyen.png</thumbnail>
+</item>
+
+<!------------ Immigration ---------------->
+
+<item>
+<title>Immigration - Di trú và Nhập Tịch Hoa Kỳ</title>
+<link>https://www.youtube.com/user/NguyenLegalGroup</link>
+<thumbnail>ditru.png</thumbnail>
+</item>
+
+<item>
+<title>Immigration - Nhập Tịch Di trú Hoa Kỳ</title>
+<link>https://www.youtube.com/user/NguyenLeThienTrang</link>
+<thumbnail>ditru.png</thumbnail>
+</item>
+
+<!------------- AFV ----------------->
+
+<item>
+<title>AFV - America's Funniest Home Videos</title>
+<link>https://www.youtube.com/user/AFVofficial</link>
+<thumbnail>AFV.png</thumbnail>
+</item>
+
+<item>
+<title>AFV - AFV Kids</title>
+<link>https://www.youtube.com/user/ToddleTale</link>
+<thumbnail>AFV.png</thumbnail>
+</item>
+
+<item>
+<title>AFV - AFV Animals</title>
+<link>https://www.youtube.com/user/PETSAMI</link>
+<thumbnail>AFV.png</thumbnail>
+</item>
+
+<item>
+<title>AFV - AFVApproved</title>
+<link>https://www.youtube.com/user/AFVApproved</link>
+<thumbnail>AFV.png</thumbnail>
+</item>
+
+<item>
+<title>AFV - AFVMobile</title>
+<link>https://www.youtube.com/user/AFVMobile</link>
+<thumbnail>AFV.png</thumbnail>
+</item>
+
+<!------ Discovery & Animal --------->
+
+<item>
+<title>DCAP - Thế Giới Động Vật Hoang Dã</title>
+<link>https://www.youtube.com/channel/UCcTBt9-jXyxIja4A3pHBRpg</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Animal Planet</title>
+<link>https://www.youtube.com/user/AnimlPlanet</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Animal Planet TV</title>
+<link>https://www.youtube.com/user/AnimalPlanetTV</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Animalist</title>
+<link>https://www.youtube.com/user/AnimalistNetwork</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Documentary TV</title>
+<link>https://www.youtube.com/user/storyofkittens</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Science Channel</title>
+<link>https://www.youtube.com/user/ScienceChannel</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - National Geographic</title>
+<link>https://www.youtube.com/user/NationalGeographic</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - NatGeoWild</title>
+<link>https://www.youtube.com/user/NatGeoWild</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - History Channel</title>
+<link>https://www.youtube.com/user/historychannel</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Discovery Channel Science Documentary</title>
+<link>https://www.youtube.com/channel/UCe4AKRmWCL9LLorr-q3On_Q</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<!------------ Other ---------------->
+
+<item>
+<title>Other - [COLOR cyan]Programming and More ... by Dạy Nhau Học[/COLOR]</title>
+<link>https://www.youtube.com/user/trandatnh</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - [COLOR cyan]Programming by Lưu Trường Hải Lân[/COLOR]</title>
+<link>https://www.youtube.com/user/luutruonghailan</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - [COLOR cyan]Programming and More ... by Derek Banas[/COLOR]</title>
+<link>https://www.youtube.com/user/derekbanas</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - TotalXBMC</title>
+<link>https://www.youtube.com/user/TotalXBMC</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - PRO XBMC + KODI + SuperAddon</title>
+<link>https://www.youtube.com/user/HowToVideoHelp</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - OneTechGenius (XBMC HELPER)</title>
+<link>https://www.youtube.com/user/XBMCHELPER</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Bếp Yêu Thương</title>
+<link>https://www.youtube.com/user/WilmarVietnam</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - POPS VIỆT NAM</title>
+<link>http://www.dailymotion.com/rss/user/PopsVietNam/1</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - HTVOnline Entertainment</title>
+<link>https://www.youtube.com/user/htvonlinetube</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Chuyện lạ Việt Nam</title>
+<link>https://www.youtube.com/user/chuyenlavietnam24h</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Giải Trí 60 Giây</title>
+<link>https://www.youtube.com/user/bantintonghop</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Khoa học - Đời sống</title>
+<link>https://www.youtube.com/user/khoahoctv</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - KHOA HỌC- CÔNG NGHỆ Plus</title>
+<link>https://www.youtube.com/user/KHCN1123Pus</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Vietnamese Cuisine</title>
+<link>http://www.dailymotion.com/rss/user/VietnameseCuisine/1</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Chương Trình Tổng Hợp</title>
+<link>http://www.dailymotion.com/rss/user/Viettrinh/1</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Yantv Jsc</title>
+<link>https://www.youtube.com/user/YanTVChannel</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Yeah1 Film/iMovie</title>
+<link>https://www.youtube.com/user/ImovieBTV4</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Zui.vn</title>
+<link>https://www.youtube.com/user/zuivn</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Gozua</title>
+<link>http://www.dailymotion.com/rss/user/Gozua/1</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - ExcelIsFun</title>
+<link>https://www.youtube.com/user/ExcelIsFun</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Home Repair - This Old House</title>
+<link>https://www.youtube.com/user/thisoldhouse</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Khan Academy</title>
+<link>https://www.youtube.com/user/khanacademy</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Khan Academy Projects</title>
+<link>https://www.youtube.com/user/khanacademyprojects</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Khan Academy Medicine</title>
+<link>https://www.youtube.com/user/khanacademymedicine</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+</stream>

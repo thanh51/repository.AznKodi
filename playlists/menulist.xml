@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<!-- Categories: Main Menu, Religion, OverseaNews, NewsInVN, Children, 
+Music, Karaoke, CaiLuong, Sitcom, TV Shows, Sports, Travel, Medical, Cooking, 
+MakeUp, AudioBook, Immigration, AFV, Dicovery & Animal, OtherStuff -->
+
+<stream>
+
+<!------------ Main Menu ----------------->
+
+<item>
+<title>Main Menu - Tôn Giáo</title>
+<link>TonGiao</link>
+<thumbnail>tongiao.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - thanh51's collection</title>
+<link>Thanh51</link>
+<thumbnail>thanh51.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu learn_kodi - Regex, Python, XBMC, Kodi ...</title>
+<link>tutorial</link>
+<thumbnail>tutorial.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu Plus - Tin Tức & TV</title>
+<link>TinTuc</link>
+<thumbnail>tintuctv.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Thiếu Nhi</title>
+<link>ThieuNhi</link>
+<thumbnail>thieunhi.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Ca Nhạc</title>
+<link>CaNhac</link>
+<thumbnail>canhac.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Hát Karaoke</title>
+<link>Karaoke</link>
+<thumbnail>karaoke.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Cải Lương</title>
+<link>Karaoke</link>
+<thumbnail>cailuong.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Hài Kịch & Talk Shows</title>
+<link>HaiKich</link>
+<thumbnail>haikich.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - TV Shows</title>
+<link>TVShows</link>
+<thumbnail>tvshows.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Thể Thao & Thể Dục</title>
+<link>TheThao</link>
+<thumbnail>thethao.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Du Lịch & Cuộc Sống</title>
+<link>DuLich</link>
+<thumbnail>dulich.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Y Khoa & Sức Khoẻ</title>
+<link>YKhoa</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Ẩm Thực Tình Yêu</title>
+<link>NauAn</link>
+<thumbnail>amthuctinhyeu.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Trang Điểm</title>
+<link>TrangDiem</link>
+<thumbnail>trangdiem.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Đọc Truyện</title>
+<link>DocTruyen</link>
+<thumbnail>doctruyen.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Di trú và Nhập Tịch Hoa Kỳ</title>
+<link>DiTru</link>
+<thumbnail>ditru.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - America's Funniest Videos</title>
+<link>AFV</link>
+<thumbnail>AFV.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Dicovery Channels & Animal Planet</title>
+<link>DCAP</link>
+<thumbnail>DCAP.png</thumbnail>
+</item>
+
+<item>
+<title>Main Menu - Những Mục Khác</title>
+<link>MucKhac</link>
+<thumbnail>muckhac.png</thumbnail>
+</item>
+
+<!-------------- Religion ---------------->
+
+<item>
+<title>Religion - Viet Catholic News</title>
+<link>https://www.youtube.com/user/VietCatholicNews</link>
+<thumbnail>https://yt3.ggpht.com/-c65Ab-3X6dk/AAAAAAAAAAI/AAAAAAAAAAA/PT8rdJRT_Is/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Tổng Giáo phận Sài Gòn</title>
+<link>https://www.youtube.com/user/tonggiaophansaigon</link>
+<thumbnail>https://yt3.ggpht.com/-XAIt6lUumS8/AAAAAAAAAAI/AAAAAAAAAAA/DqpwQeTQVuw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Giáo phận Mỹ Tho</title>
+<link>https://www.youtube.com/user/giaophanmytho1</link>
+<thumbnail>https://yt3.ggpht.com/-YLNL4eAJFOE/AAAAAAAAAAI/AAAAAAAAAAA/nX0qUtNj7Mo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Đa Minh Việt Nam (Dominican Province in Viet Nam)</title>
+<link>https://www.youtube.com/channel/UCVxSILQUfiUt3s2rFbUmikw</link>
+<thumbnail>https://yt3.ggpht.com/-sykmJMgYf_4/AAAAAAAAAAI/AAAAAAAAAAA/7uD0uONF_uQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Mục Vụ Truyền Thông Giáo Xứ Phú Hoà</title>
+<link>https://www.youtube.com/user/MVTTGxPhuHoa</link>
+<thumbnail>https://yt3.ggpht.com/-9z3zkgQa0EA/AAAAAAAAAAI/AAAAAAAAAAA/lfLslolbTSo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - TV Ánh Sáng Tin Mừng</title>
+<link>https://www.youtube.com/user/tvastm</link>
+<thumbnail>https://yt3.ggpht.com/-6N7S4lAtlcY/AAAAAAAAAAI/AAAAAAAAAAA/zfbxeyqB-BA/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Đức Mẹ TV</title>
+<link>https://www.youtube.com/user/chuacuuthe</link>
+<thumbnail>https://yt3.ggpht.com/-PHyh2owsvVI/AAAAAAAAAAI/AAAAAAAAAAA/CSCG08ugYs8/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Đức Mẹ Măng Đen</title>
+<link>https://www.youtube.com/user/DucMeMangDen</link>
+<thumbnail>https://yt3.ggpht.com/-zVjtwLFiLFc/AAAAAAAAAAI/AAAAAAAAAAA/ivaJVXBQci4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - KINH MÂN CÔI online</title>
+<link>https://www.youtube.com/user/kinhmancoionline</link>
+<thumbnail>https://i.ytimg.com/i/IKlVgaDjb2KfSObJXz3QPw/mq1.jpg?v=535af988</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phim Công Giáo</title>
+<link>https://www.youtube.com/user/PhimCongGiaoVN</link>
+<thumbnail>https://yt3.ggpht.com/-59U49gjKfOM/AAAAAAAAAAI/AAAAAAAAAAA/34uZD3a1hGw/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phim Công Giáo 2</title>
+<link>https://www.youtube.com/user/PhimCongGiao2</link>
+<thumbnail>https://yt3.ggpht.com/-4UWkmlzv7fc/AAAAAAAAAAI/AAAAAAAAAAA/dh_vaADcv0c/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thánh Ca</title>
+<link>https://www.youtube.com/user/ThanhCaHD</link>
+<thumbnail>https://yt3.ggpht.com/-x-cwQlGRyXk/AAAAAAAAAAI/AAAAAAAAAAA/Q6vPxbClP_8/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thánh Ca Không Lời</title>
+<link>https://www.youtube.com/user/Thanhcakhongloi</link>
+<thumbnail>https://yt3.ggpht.com/-4eLIK5ngdW0/AAAAAAAAAAI/AAAAAAAAAAA/rHwIr6BSyWM/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Tin Lành TiVi</title>
+<link>https://www.youtube.com/user/tinlanhtv</link>
+<thumbnail>https://yt3.ggpht.com/-4eLIK5ngdW0/AAAAAAAAAAI/AAAAAAAAAAA/rHwIr6BSyWM/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Tin Lành Orange</title>
+<link>https://www.youtube.com/channel/UCd8tHv1A1VsTL7WS9yQ3eGg</link>
+<thumbnail>https://yt3.ggpht.com/-2ECGKlyOcXs/AAAAAAAAAAI/AAAAAAAAAAA/_B6GFtS_r_s/s88-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Giảng Luận Cơ Đốc</title>
+<link>https://www.youtube.com/user/upnhacnee</link>
+<thumbnail>https://yt3.ggpht.com/-9nRdIeow7aw/AAAAAAAAAAI/AAAAAAAAAAA/aMxu78kGd_E/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thư viện Cơ Đốc</title>
+<link>https://www.youtube.com/user/cdnvn</link>
+<thumbnail>https://yt3.ggpht.com/-DcrMxsBhbko/AAAAAAAAAAI/AAAAAAAAAAA/5JCZIV3gpY4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thánh Nhạc</title>
+<link>https://www.youtube.com/user/CDNVN00</link>
+<thumbnail>https://yt3.ggpht.com/-aDi_OCOrMf8/AAAAAAAAAAI/AAAAAAAAAAA/tIrMBeN-tlk/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Thư Viện Phật Giáo</title>
+<link>https://www.youtube.com/user/thuvienphatgiao</link>
+<thumbnail>https://yt3.ggpht.com/-SLo_z3GoP2E/AAAAAAAAAAI/AAAAAAAAAAA/GG1TE8Zq1is/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Niệm Phật Thành Phật</title>
+<link>https://www.youtube.com/user/NiemPhatThanhPhat</link>
+<thumbnail>https://yt3.ggpht.com/-Oe6syKnrqxo/AAAAAAAAAAI/AAAAAAAAAAA/uaaoNivhY-o/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phật Âm Video</title>
+<link>https://www.youtube.com/user/phatamvideo</link>
+<thumbnail>https://yt3.ggpht.com/-KY58UjBUzaY/AAAAAAAAAAI/AAAAAAAAAAA/fyANa-_q8Ko/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Quy Y Tam Bảo</title>
+<link>https://www.youtube.com/user/TANGTRUNGTHANG</link>
+<thumbnail>https://yt3.ggpht.com/-ynp0efOAlJE/AAAAAAAAAAI/AAAAAAAAAAA/ZtxAL8H82I4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phật Pháp Tăng</title>
+<link>https://www.youtube.com/channel/UCNE3UFyedJ_3_ZEiuZkioYw</link>
+<thumbnail>https://yt3.ggpht.com/-i5WlZ8TnDBg/AAAAAAAAAAI/AAAAAAAAAAA/zAQrEvJoyko/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - NAM MÔ A DI ĐÀ PHẬT</title>
+<link>https://www.youtube.com/user/nammoadidaphatnew</link>
+<thumbnail>https://yt3.ggpht.com/-w8sj9zwWdMA/AAAAAAAAAAI/AAAAAAAAAAA/sUkb1Xo46c4/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phật Pháp Nhiệm Màu</title>
+<link>https://www.youtube.com/channel/UCP9jSXwNXTEoql3cZSoI4Yw</link>
+<thumbnail>https://yt3.ggpht.com/--C442Y2Ghhs/AAAAAAAAAAI/AAAAAAAAAAA/aztGD0jT3Lg/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Linh Minh Trạm Tịch</title>
+<link>https://www.youtube.com/user/nguynlinhtam</link>
+<thumbnail>https://yt3.ggpht.com/-7WJnWWi8owk/AAAAAAAAAAI/AAAAAAAAAAA/YzO2d_DSPb0/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Phật Giáo Hòa Hảo</title>
+<link>https://www.youtube.com/user/nhatsonvan1981</link>
+<thumbnail>https://yt3.ggpht.com/-3A0_rJhNi7c/AAAAAAAAAAI/AAAAAAAAAAA/Otscraje4Wc/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - PHẬT GIÁO HÒA HẢO (PGHH)</title>
+<link>https://www.youtube.com/user/hoahao185</link>
+<thumbnail>https://i.ytimg.com/i/lDgvlwsatUJX35e4L231ig/mq1.jpg?v=52082cba</thumbnail>
+</item>
+
+<item>
+<title>Religion - PHẬT GIÁO HÒA HẢO - PGHH</title>
+<link>https://www.youtube.com/user/nguoihoahao</link>
+<thumbnail>https://i.ytimg.com/i/n2BiM8qvbIdlWkJeA7R4pw/mq1.jpg?v=52082e76</thumbnail>
+</item>
+
+<item>
+<title>Religion - PHẬT GIÁO HÒA HẢO (PGHH)</title>
+<link>https://www.youtube.com/user/giaolypghh</link>
+<thumbnail>https://i.ytimg.com/i/TKSGwGxflSpi6_oIWY23lA/mq1.jpg?v=52082e09</thumbnail>
+</item>
+
+<item>
+<title>Religion - TỦ SÁCH NÓI CAO ĐÀI</title>
+<link>https://www.youtube.com/channel/UCtHYWzR7fBcqFMhgHw1nsNg</link>
+<thumbnail>https://yt3.ggpht.com/-1gVhVh0GbFs/AAAAAAAAAAI/AAAAAAAAAAA/tFXC4AbiYDI/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Religion - Cao Đài Ban Chỉnh Đạo</title>
+<link>https://www.youtube.com/user/caodaibanchinhdaoorg</link>
+<thumbnail>https://yt3.ggpht.com/-_v8eM_rmES0/AAAAAAAAAAI/AAAAAAAAAAA/eea3dRrhjjs/s100-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ thanh51 --------------->
+
+<item>
+<title>thanh51 - vtc2tv</title>
+<link>https://www.youtube.com/user/vtc2tv</link>
+<thumbnail>https://yt3.ggpht.com/-BMVzWuGuLeE/AAAAAAAAAAI/AAAAAAAAAAA/l20EP7Am650/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - ChuChu TV Kids Songs</title>
+<link>https://www.youtube.com/user/TheChuChuTV</link>
+<thumbnail>https://yt3.ggpht.com/-QHPC9emY_8c/AAAAAAAAAAI/AAAAAAAAAAA/03fPGkHcBbk/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - Nhạc Vàng PLus</title>
+<link>https://www.youtube.com/user/NhacVangPlus</link>
+<thumbnail>https://yt3.ggpht.com/-9Taz4AaAkys/AAAAAAAAAAI/AAAAAAAAAAA/CIovEF_vIWk/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - NHẠC VÀNG TUYỂN CHỌN 2</title>
+<link>https://www.youtube.com/user/nhacvangtuyenchon2</link>
+<thumbnail>https://yt3.ggpht.com/-kRp20UFUzqU/AAAAAAAAAAI/AAAAAAAAAAA/PHTPW_QTiek/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - nvbdocfilms AV</title>
+<link>https://www.youtube.com/user/nvbtube4474</link>
+<thumbnail>https://yt3.ggpht.com/-Il60k_oSGtY/AAAAAAAAAAI/AAAAAAAAAAA/miI61FiL7Hs/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - Documentary & Life Discovery HD Channel (Official)</title>
+<link>https://www.youtube.com/user/LifeDiscoveryDocu</link>
+<thumbnail>https://yt3.ggpht.com/-Wiyi4I9ZjIw/AAAAAAAAAAI/AAAAAAAAAAA/SCa3UpHccwo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - HD Documentary Channel (Official)</title>
+<link>https://www.youtube.com/user/HDdocumentaryChannel</link>
+<thumbnail>https://yt3.ggpht.com/-3z9Eep8u1kM/AAAAAAAAAAI/AAAAAAAAAAA/V0h3wGEyrhQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - Planet Doc Full Documentaries</title>
+<link>https://www.youtube.com/user/PlanetDocChannel</link>
+<thumbnail>https://yt3.ggpht.com/-jSIGfZAjyTk/AAAAAAAAAAI/AAAAAAAAAAA/dvaLu4krnwI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - HD Universe Channel</title>
+<link>https://www.youtube.com/user/HDUniverseChannel</link>
+<thumbnail>https://yt3.ggpht.com/-y3CDkBygpiM/AAAAAAAAAAI/AAAAAAAAAAA/AH67_Z73b1E/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - TheGoldProspector D'arcy Cooper</title>
+<link>https://www.youtube.com/user/hixonAu</link>
+<thumbnail>https://yt3.ggpht.com/-iTrGlRzP0zk/AAAAAAAAAAI/AAAAAAAAAAA/nx3SO7n0rQE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>thanh51 - ImperiaToys</title>
+<link>https://www.youtube.com/user/ImperiaToys</link>
+<thumbnail>https://yt3.ggpht.com/-iww_FK81zjI/AAAAAAAAAAI/AAAAAAAAAAA/TWRKuOLGsKg/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ OverseaNews --------------->
+
+<item>
+<title>OverseaNews - SBTN USA</title>
+<link>https://www.youtube.com/user/sbtnofficial</link>
+<thumbnail>https://yt3.ggpht.com/-NavMi4il1D0/AAAAAAAAAAI/AAAAAAAAAAA/W6kcqJX-2ng/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Houston</title>
+<link>https://www.youtube.com/user/sbtnhosuton</link>
+<thumbnail>https://yt3.ggpht.com/-NavMi4il1D0/AAAAAAAAAAI/AAAAAAAAAAA/W6kcqJX-2ng/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Boston</title>
+<link>https://www.youtube.com/user/newssbtnboston</link>
+<thumbnail>https://yt3.ggpht.com/-NavMi4il1D0/AAAAAAAAAAI/AAAAAAAAAAA/W6kcqJX-2ng/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Canada</title>
+<link>https://www.youtube.com/user/thoibaocanada</link>
+<thumbnail>https://yt3.ggpht.com/-NavMi4il1D0/AAAAAAAAAAI/AAAAAAAAAAA/W6kcqJX-2ng/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Úc Châu</title>
+<link>https://www.youtube.com/user/SBTNAUS</link>
+<thumbnail>https://yt3.ggpht.com/-NavMi4il1D0/AAAAAAAAAAI/AAAAAAAAAAA/W6kcqJX-2ng/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - SBTN Paris</title>
+<link>https://www.youtube.com/user/paris2013sbtn</link>
+<thumbnail>https://yt3.ggpht.com/-NavMi4il1D0/AAAAAAAAAAI/AAAAAAAAAAA/W6kcqJX-2ng/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Người Việt Online</title>
+<link>https://www.youtube.com/user/NguoiVietOnline</link>
+<thumbnail>https://yt3.ggpht.com/-0_ZjLGEkBPA/AAAAAAAAAAI/AAAAAAAAAAA/S8PzQJXlF70/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Phố Bolsa TV</title>
+<link>https://www.youtube.com/user/PhoBolsaTV</link>
+<thumbnail>https://yt3.ggpht.com/-0OqAtBg-6Xs/AAAAAAAAAAI/AAAAAAAAAAA/tKmYrSQwJkA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - officialVietFaceTV</title>
+<link>https://www.youtube.com/user/officialVietFaceTV</link>
+<thumbnail>https://yt3.ggpht.com/-kiw4Dr7e48A/AAAAAAAAAAI/AAAAAAAAAAA/_RCqVSmuv7g/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - VA TV Online</title>
+<link>https://www.youtube.com/user/VATVONLINE</link>
+<thumbnail>https://yt3.ggpht.com/-JV0Q23z7_D4/AAAAAAAAAAI/AAAAAAAAAAA/PIKsyBSv2_I/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - LSTVNETWORKS</title>
+<link>https://www.youtube.com/user/LSTVNETWORK</link>
+<thumbnail>https://yt3.ggpht.com/-83iMJNJZ-ng/AAAAAAAAAAI/AAAAAAAAAAA/bqxLBxg4Evs/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - vietbaytv kaxt</title>
+<link>https://www.youtube.com/user/vietbaytv</link>
+<thumbnail>https://yt3.ggpht.com/-RCJfRhg1JE8/AAAAAAAAAAI/AAAAAAAAAAA/xNfm_K1AzdI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - VIETV</title>
+<link>https://www.youtube.com/user/VIETVnetwork</link>
+<thumbnail>https://yt3.ggpht.com/-muRXtJwaqiQ/AAAAAAAAAAI/AAAAAAAAAAA/MPCbudu_94k/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - vietnewstelevision</title>
+<link>https://www.youtube.com/user/vietnewstelevision</link>
+<thumbnail>https://yt3.ggpht.com/-lPY5X-wJc9U/AAAAAAAAAAI/AAAAAAAAAAA/E6wINJTnYR4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Viet Weekly Tube</title>
+<link>https://www.youtube.com/user/vietweeklytube</link>
+<thumbnail>https://i.ytimg.com/i/9Lg84hU2f7KLIb6aqj63Jg/mq1.jpg?v=51a409da</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - TDBroadcasting</title>
+<link>https://www.youtube.com/user/TDBroadcasting</link>
+<thumbnail>https://yt3.ggpht.com/-2eQYcCkwhps/AAAAAAAAAAI/AAAAAAAAAAA/iZEpirxunPI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - VO MEDIA</title>
+<link>https://www.youtube.com/user/mrVOMedia</link>
+<thumbnail>https://yt3.ggpht.com/-p6nLlvGDdDQ/AAAAAAAAAAI/AAAAAAAAAAA/G5-1dN-q0F8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - THOIBAO MEDIA</title>
+<link>https://www.youtube.com/user/thoibaocanada</link>
+<thumbnail>https://yt3.ggpht.com/-JsbWaIAPPL0/AAAAAAAAAAI/AAAAAAAAAAA/LdkKLekyz-c/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - NWVietnameseNews</title>
+<link>https://www.youtube.com/user/NWVietnameseNews</link>
+<thumbnail>https://yt3.ggpht.com/-PNlPuHoLP34/AAAAAAAAAAI/AAAAAAAAAAA/0AJzs3aeRjw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Truyenhinhvietnam1</title>
+<link>https://www.youtube.com/user/Truyenhinhvietnam1</link>
+<thumbnail>https://yt3.ggpht.com/-JcJutLsj204/AAAAAAAAAAI/AAAAAAAAAAA/-U8mQZknB8o/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Que Huong Media</title>
+<link>https://www.youtube.com/user/quehuongradio</link>
+<thumbnail>https://yt3.ggpht.com/-Brru4xk_ptg/AAAAAAAAAAI/AAAAAAAAAAA/OWz6a-Rork4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - Thư Viện Toàn Cầu</title>
+<link>http://www.dailymotion.com/rss/user/ThuVienToanCau/1</link>
+<thumbnail>https://yt3.ggpht.com/-2eQYcCkwhps/AAAAAAAAAAI/AAAAAAAAAAA/iZEpirxunPI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - VTO</title>
+<link>https://www.youtube.com/user/1734ize</link>
+<thumbnail>https://yt3.ggpht.com/-2eQYcCkwhps/AAAAAAAAAAI/AAAAAAAAAAA/iZEpirxunPI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>OverseaNews - VOA Tiếng Việt</title>
+<link>https://www.youtube.com/user/VOATiengVietVideo</link>
+<thumbnail>https://yt3.ggpht.com/-sfhK6n3he4I/AAAAAAAAAAI/AAAAAAAAAAA/pEpMYILQZEE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - BBC Tiếng Việt</title>
+<link>https://www.youtube.com/user/BBCVietnamese</link>
+<thumbnail>https://yt3.ggpht.com/-moLwkodQ9aQ/AAAAAAAAAAI/AAAAAAAAAAA/BmBryiEgvlU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>OverseaNews - RFAVietnamese</title>
+<link>https://www.youtube.com/user/RFAVietnamese</link>
+<thumbnail>https://yt3.ggpht.com/-vw5BjKxTKu0/AAAAAAAAAAI/AAAAAAAAAAA/zRyNv3PR0EU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------- NewsInVN ----------------->
+
+<item>
+<title>NewsInVN - Truyền Hình Tuổi Trẻ</title>
+<link>https://www.youtube.com/user/TruyenHinhTuoiTre</link>
+<thumbnail>https://yt3.ggpht.com/-ewcOF-SJcUY/AAAAAAAAAAI/AAAAAAAAAAA/XWQVwrrGiOo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VTV - Đài Truyền hình Việt Nam</title>
+<link>https://www.youtube.com/user/VTVgo</link>
+<thumbnail>https://yt3.ggpht.com/-KhR50S9e9bw/AAAAAAAAAAI/AAAAAAAAAAA/z2GNPhmuV3U/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - KÊNH TRUYỀN HÌNH VTC14</title>
+<link>https://www.youtube.com/user/KenhTruyenHinhVTC14</link>
+<thumbnail>https://yt3.ggpht.com/-p8JiSZ4FE0E/AAAAAAAAAAI/AAAAAAAAAAA/NPDRHA2WS7o/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Minh Express</title>
+<link>https://www.youtube.com/channel/UCfA4BYQdTPU9ItmQOauuFEQ</link>
+<thumbnail>https://yt3.ggpht.com/-Y4KBUXGaQlg/AAAAAAAAAAI/AAAAAAAAAAA/niPF-OiMSCg/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Truyen Hinh Vinh Long</title>
+<link>https://www.youtube.com/user/VinhLongTV</link>
+<thumbnail>https://yt3.ggpht.com/-O51CipV6Omc/AAAAAAAAAAI/AAAAAAAAAAA/Kti3FeONmxQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - LET'SVIET TV</title>
+<link>https://www.youtube.com/user/letsvietvn</link>
+<thumbnail>https://yt3.ggpht.com/-kCMMb9ul8eU/AAAAAAAAAAI/AAAAAAAAAAA/0QRsWgBeulA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VTV4 on the Go</title>
+<link>https://www.youtube.com/user/VTV4go</link>
+<thumbnail>https://yt3.ggpht.com/-_q1G7mD0LPE/AAAAAAAAAAI/AAAAAAAAAAA/b3cYpsg3M5w/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VTV Life</title>
+<link>https://www.youtube.com/user/VTVLife</link>
+<thumbnail>https://yt3.ggpht.com/-SR29M71EKJ4/AAAAAAAAAAI/AAAAAAAAAAA/zvpNwwuqDLo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - POPSTVVIETNAM</title>
+<link>https://www.youtube.com/user/POPSTVVIETNAM</link>
+<thumbnail>https://yt3.ggpht.com/-NTHCWGqYP-A/AAAAAAAAAAI/AAAAAAAAAAA/-zAmAen4S10/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VTCTube</title>
+<link>https://www.youtube.com/user/vtctv</link>
+<thumbnail>https://yt3.ggpht.com/-kTqQb5aV8Cw/AAAAAAAAAAI/AAAAAAAAAAA/HXZRyGgsG1s/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Zing TV Official</title>
+<link>https://www.youtube.com/user/ZingTVVN</link>
+<thumbnail>https://yt3.ggpht.com/-y0Ti2txHXuE/AAAAAAAAAAI/AAAAAAAAAAA/7mfP99wI-EA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - FAP TV</title>
+<link>https://www.youtube.com/user/FAPtivi</link>
+<thumbnail>https://yt3.ggpht.com/-bR_nQqJQnWs/AAAAAAAAAAI/AAAAAAAAAAA/lKHB_DPfUeM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Giải Trí TV</title>
+<link>https://www.youtube.com/user/ChannelGiaiTriTV</link>
+<thumbnail>https://yt3.ggpht.com/-Kz5eDzYSB1Q/AAAAAAAAAAI/AAAAAAAAAAA/CcOf7ir6R4c/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - htv2channel</title>
+<link>https://www.youtube.com/user/htv2channel</link>
+<thumbnail>https://yt3.ggpht.com/-1sJaMJLa5hc/AAAAAAAAAAI/AAAAAAAAAAA/M5Ta4rdVUZU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Yeah1 Family TV - VTC4</title>
+<link>https://www.youtube.com/channel/UCo_QG56Ijk2iklFgpUOVKIA</link>
+<thumbnail>https://yt3.ggpht.com/-IooRCjdI894/AAAAAAAAAAI/AAAAAAAAAAA/fnR1hDHW-Vg/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - YAN News</title>
+<link>https://www.youtube.com/user/YanNewsTube</link>
+<thumbnail>https://yt3.ggpht.com/-O2NgRGyXJiw/AAAAAAAAAAI/AAAAAAAAAAA/nlB9Ag1CqWc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - YAN TV - Turns U on</title>
+<link>https://www.youtube.com/user/YanTvTurnsUon</link>
+<thumbnail>https://i.ytimg.com/i/4mHBltQPpoveq5__L89cmA/mq1.jpg?v=9b1fdb</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - VIETNAM NEWS AGENCY</title>
+<link>http://www.dailymotion.com/rss/user/TTXVN/1</link>
+<thumbnail>http://s1.dmcdn.net/B5KxA/200x200-YO4.jpg</thumbnail>
+</item>
+
+<item>
+<title>NewsInVN - Truyền Hình Tuổi Trẻ</title>
+<link>http://www.dailymotion.com/rss/user/truyenhinhtuoitre/1</link>
+<thumbnail>http://s1.dmcdn.net/AVM/200x200-iwk.png</thumbnail>
+</item>
+
+<!------------ Children ------------------>
+
+<item>
+<title>Children - TheHeTreTV</title>
+<link>https://www.youtube.com/user/TheHeTreTV</link>
+<thumbnail>https://yt3.ggpht.com/-ek7bg43CWEM/AAAAAAAAAAI/AAAAAAAAAAA/VhW4kZ2qKDU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - Gương Mặt Thân Quen Nhí | Your Face Sounds Familiar Kids (Vietnam)</title>
+<link>https://www.youtube.com/user/GMTQNHI</link>
+<thumbnail>https://yt3.ggpht.com/-ifgHAWhKyA4/AAAAAAAAAAI/AAAAAAAAAAA/S9_-B5uZ7DE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - POPS Kids</title>
+<link>https://www.youtube.com/user/popskids</link>
+<thumbnail>https://yt3.ggpht.com/-qGfl3ZBn8XQ/AAAAAAAAAAI/AAAAAAAAAAA/wX0hVjPx74E/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - Thiếu Nhi Nhạc</title>
+<link>https://www.youtube.com/user/thieunhinhac</link>
+<thumbnail>https://yt3.ggpht.com/-igkwb1mDveI/AAAAAAAAAAI/AAAAAAAAAAA/11qLy4zH2UM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - Children's Music</title>
+<link>https://www.youtube.com/user/Childrenmusic1</link>
+<thumbnail>https://yt3.ggpht.com/-A1YC6nCvEb8/AAAAAAAAAAI/AAAAAAAAAAA/0ZkrXMtwog8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - Cartoon Network</title>
+<link>https://www.youtube.com/user/cartoonnetwork</link>
+<thumbnail>https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - LittleBabyBum ®</title>
+<link>https://www.youtube.com/user/LittleBabyBum</link>
+<thumbnail>https://yt3.ggpht.com/-KLfbkE3zovQ/AAAAAAAAAAI/AAAAAAAAAAA/gMZ_6qxvEXw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - BarbieFilmCollection</title>
+<link>https://www.youtube.com/user/BarbieFilmCollection</link>
+<thumbnail>https://yt3.ggpht.com/-D4hJkGtZ7ZY/AAAAAAAAAAI/AAAAAAAAAAA/i6fu-XIqPeM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - Disney Cars Toy Club DCTC</title>
+<link>https://www.youtube.com/user/MaterCarClub</link>
+<thumbnail>https://yt3.ggpht.com/-HSvqxhz7Fl4/AAAAAAAAAAI/AAAAAAAAAAA/u60wsSiJCjQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Children - ABCkidTV</title>
+<link>https://www.youtube.com/user/checkgate</link>
+<thumbnail>https://yt3.ggpht.com/-gn0wGBOL4hE/AAAAAAAAAAI/AAAAAAAAAAA/RRCSsKhYNL8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ Music --------------------->
+
+<item>
+<title>Music - Thuy Nga Paris By Night Video Channel</title>
+<link>https://www.youtube.com/user/TNPBN</link>
+<thumbnail>https://yt3.ggpht.com/-5RpDqAG3zlI/AAAAAAAAAAI/AAAAAAAAAAA/gdGz4yjPN2o/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Asia Entertainment Official</title>
+<link>https://www.youtube.com/user/TrungTamAsiaChannel</link>
+<thumbnail>https://yt3.ggpht.com/-Kyi1-RpibLM/AAAAAAAAAAI/AAAAAAAAAAA/xfBnfdeHdQA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Van Son</title>
+<link>https://www.youtube.com/user/VanSonOnline</link>
+<thumbnail>https://yt3.ggpht.com/-P-7c5VORh8g/AAAAAAAAAAI/AAAAAAAAAAA/0kvtHKMJIhY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Bước Chân Hai Thế Hệ</title>
+<link>https://www.youtube.com/user/buocchanhaithehe</link>
+<thumbnail>https://yt3.ggpht.com/-WZR8BBzJh7A/AAAAAAAAAAI/AAAAAAAAAAA/Oj9OH_Wo5D4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - POPS MUSIC</title>
+<link>https://www.youtube.com/user/POPSVIETNAM</link>
+<thumbnail>https://yt3.ggpht.com/-P51VIiEjmcI/AAAAAAAAAAI/AAAAAAAAAAA/63ft2_5--dw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Blueoceanmusic Channel</title>
+<link>https://www.youtube.com/user/blueoceanmusicusa</link>
+<thumbnail>https://yt3.ggpht.com/-jaQb4jgaf64/AAAAAAAAAAI/AAAAAAAAAAA/v2y8pO3nHOI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Nhạc Vàng Hải Ngoại</title>
+<link>https://www.youtube.com/user/NhacvietVEVO</link>
+<thumbnail>https://yt3.ggpht.com/-B7mX-OXtHG0/AAAAAAAAAAI/AAAAAAAAAAA/D72sa-aHAlc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - ZingMp3 Official</title>
+<link>https://www.youtube.com/user/ZingMp3Official</link>
+<thumbnail>https://yt3.ggpht.com/-f9Sk3pG2tLY/AAAAAAAAAAI/AAAAAAAAAAA/pD2v0uevycQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Nhạc Số Official Channel</title>
+<link>https://www.youtube.com/user/NhacsoOfficial</link>
+<thumbnail>https://yt3.ggpht.com/-1dN0u81ik5Q/AAAAAAAAAAI/AAAAAAAAAAA/nUTTUDLztYo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - NhacCuaTui Official</title>
+<link>https://www.youtube.com/user/NhacCuaTuiOfficial</link>
+<thumbnail>https://yt3.ggpht.com/-fX9CU8rebJw/AAAAAAAAAAI/AAAAAAAAAAA/hWL8qTz5OWI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - DONG GIAO Official</title>
+<link>https://www.youtube.com/user/DongGiaoOfficial</link>
+<thumbnail>https://yt3.ggpht.com/-5TD-pJoIQRY/AAAAAAAAAAI/AAAAAAAAAAA/oBUSns1u68U/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Gala Nhạc Việt</title>
+<link>https://www.youtube.com/user/galanhacviet</link>
+<thumbnail>https://yt3.ggpht.com/-frd5Yq1uW2o/AAAAAAAAAAI/AAAAAAAAAAA/6K-kArRuyx8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Nhạc Vàng NTPlus</title>
+<link>https://www.youtube.com/user/NhacvangNTPlus</link>
+<thumbnail>https://yt3.ggpht.com/-hstoHQkobg4/AAAAAAAAAAI/AAAAAAAAAAA/TSjKp0LL3ow/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - SACVIET</title>
+<link>https://www.youtube.com/user/SACVIET</link>
+<thumbnail>https://yt3.ggpht.com/-wXHCssmsbFc/AAAAAAAAAAI/AAAAAAAAAAA/8SysyZ_jTZo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - YEAH1 MUSIC</title>
+<link>https://www.youtube.com/channel/UCI2OiZs5aVcyBUBVsgovzng</link>
+<thumbnail>https://yt3.ggpht.com/-abAzr4hJT_k/AAAAAAAAAAI/AAAAAAAAAAA/VugyNDyHJTQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - nhuquynhtube</title>
+<link>https://www.youtube.com/user/nhuquynhtube</link>
+<thumbnail>https://yt3.ggpht.com/-KrOpMH15Qd8/AAAAAAAAAAI/AAAAAAAAAAA/2t48bkAnAgw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Lam Truong's Official Channel</title>
+<link>https://www.youtube.com/user/LamTruongOfficial</link>
+<thumbnail>https://yt3.ggpht.com/-TML4bPZEg74/AAAAAAAAAAI/AAAAAAAAAAA/1NX_7_4BIMQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - My Tam</title>
+<link>https://www.youtube.com/user/MyTamOfficial</link>
+<thumbnail>https://yt3.ggpht.com/-23H_UmmE7w0/AAAAAAAAAAI/AAAAAAAAAAA/bAKItI6ig7g/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Đàm Vĩnh Hưng</title>
+<link>https://www.youtube.com/user/DamVinhHungPOPS</link>
+<thumbnail>https://yt3.ggpht.com/--DH0NDvG9PI/AAAAAAAAAAI/AAAAAAAAAAA/mtYd88XVNto/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Đan Trường</title>
+<link>https://www.youtube.com/user/DanTruongPOPS</link>
+<thumbnail>https://yt3.ggpht.com/-EmARPzAPaw0/AAAAAAAAAAI/AAAAAAAAAAA/6sF8z6M2npQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Blue Ocean Music</title>
+<link>http://www.dailymotion.com/rss/user/blueoceanmusic_chanel/1</link>
+<thumbnail>http://s2.dmcdn.net/CwbR6/200x200-4gc.jpg</thumbnail>
+</item>
+
+<item>
+<title>Music - Ca Nhạc</title>
+<link>http://www.dailymotion.com/rss/user/Music24h/1</link>
+<thumbnail>http://s2.dmcdn.net/G36Hz/200x200-_Bs.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Thế giới Giải Trí</title>
+<link>http://www.dailymotion.com/rss/user/VideoGiaiTri/1</link>
+<thumbnail>http://s2.dmcdn.net/G6lNR/200x200-n2S.png</thumbnail>
+</item>
+
+<item>
+<title>Music - Ca Nhạc Việt Nam</title>
+<link>http://www.dailymotion.com/rss/user/TaiSON1973/1</link>
+<thumbnail>http://s2.dmcdn.net/G6lNR/200x200-n2S.png</thumbnail>
+</item>
+
+<!------------ Karaoke ------------------->
+
+<item>
+<title>Karaoke - ViCi Karaoke Online</title>
+<link>https://www.youtube.com/user/vcbuikara1993</link>
+<thumbnail>https://yt3.ggpht.com/-Q1NvKYCgNns/AAAAAAAAAAI/AAAAAAAAAAA/i30SgMMA5Qo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - KARAOKE YOUSING FREE</title>
+<link>https://www.youtube.com/user/nguyenhoangthanh1</link>
+<thumbnail>https://yt3.ggpht.com/-cDdnZ5DAoVE/AAAAAAAAAAI/AAAAAAAAAAA/jF9Gi8OPALg/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - POOPS</title>
+<link>https://www.youtube.com/user/TNOTV1</link>
+<thumbnail>https://yt3.ggpht.com/-qqIcJM3upps/AAAAAAAAAAI/AAAAAAAAAAA/y-ti4YCwJ6I/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - Karaoke Tài Đức</title>
+<link>https://www.youtube.com/user/letaiducks</link>
+<thumbnail>https://yt3.ggpht.com/-0GMc1qvwiVQ/AAAAAAAAAAI/AAAAAAAAAAA/MaKHTE969gg/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - Lưu Huỳnh Đức Karaoke</title>
+<link>https://www.youtube.com/channel/UCqLIjOVf9_YMNeydzpEXf1w</link>
+<thumbnail>https://yt3.ggpht.com/-2sLhGnw_hrs/AAAAAAAAAAI/AAAAAAAAAAA/mev3GWoSsDM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - Karaoke Thành Lý</title>
+<link>https://www.youtube.com/channel/UCvfYGLpsIShZvMFAIubbo4Q</link>
+<thumbnail>https://yt3.ggpht.com/-ZaNOfE3Ud-8/AAAAAAAAAAI/AAAAAAAAAAA/pyRk0Pj9ZFY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - Trần Khánh Linh KaRa Organ</title>
+<link>https://www.youtube.com/channel/UCwnnS6DdCQ8VOr4SH4CbV1Q</link>
+<thumbnail>https://yt3.ggpht.com/-GLumO2vhKyU/AAAAAAAAAAI/AAAAAAAAAAA/Gq-6hebxNPE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - Nguyễn Tấn Lực</title>
+<link>https://www.youtube.com/user/NguyenTanLuc2</link>
+<thumbnail>https://yt3.ggpht.com/-tZy1P6X3hdI/AAAAAAAAAAI/AAAAAAAAAAA/hqajp1UXXOA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - DuongThuong Kara</title>
+<link>https://www.youtube.com/channel/UCN0AKDjI-TIbAmUGdS9Rc0A</link>
+<thumbnail>https://yt3.ggpht.com/-zAHGNzse5q4/AAAAAAAAAAI/AAAAAAAAAAA/1XGU53mOZjU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - Nguyễn Thanh Kara</title>
+<link>https://www.youtube.com/user/nhacsongnguyenthanh</link>
+<thumbnail>https://yt3.ggpht.com/-zh7qtQ9dDaw/AAAAAAAAAAI/AAAAAAAAAAA/K8-F3m8cX0c/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - Karaoke Phạm Văn Vàng</title>
+<link>https://www.youtube.com/user/karaokephamvanvang</link>
+<thumbnail>https://yt3.ggpht.com/-m9qQc9UdQMQ/AAAAAAAAAAI/AAAAAAAAAAA/IEfzvgGBtkw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - KaraokeOnVEVO</title>
+<link>https://www.youtube.com/user/KaraokeOnVEVO</link>
+<thumbnail>https://yt3.ggpht.com/-CyAdZgF4lts/AAAAAAAAAAI/AAAAAAAAAAA/c181cY8p6Lc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - TheKARAOKEChannel</title>
+<link>https://www.youtube.com/user/TheKARAOKEChannel</link>
+<thumbnail>https://yt3.ggpht.com/-8Ee1BcZtW7g/AAAAAAAAAAI/AAAAAAAAAAA/JqoBo946g0Q/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - Sing King Karaoke</title>
+<link>https://www.youtube.com/user/singkingkaraoke</link>
+<thumbnail>https://yt3.ggpht.com/-RQAPMaxL1gE/AAAAAAAAAAI/AAAAAAAAAAA/zawPgoguLwI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Karaoke - singsongsmusic</title>
+<link>https://www.youtube.com/user/singsongsmusic</link>
+<thumbnail>https://yt3.ggpht.com/-iu_A8aYydvs/AAAAAAAAAAI/AAAAAAAAAAA/kXj4XMpmVnI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ CaiLuong -------------------->
+
+<item>
+<title>Cailuong - Le Thuy Forum</title>
+<link>https://www.youtube.com/user/micovn</link>
+<thumbnail>https://yt3.ggpht.com/-k07y369NZJ4/AAAAAAAAAAI/AAAAAAAAAAA/n0RrcKyNy58/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương Chi Bảo</title>
+<link>https://www.youtube.com/user/fukudahoushin1</link>
+<thumbnail>https://yt3.ggpht.com/-Jgm_rporxQc/AAAAAAAAAAI/AAAAAAAAAAA/JZOnjosaiI4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Ngoc Huyenzone</title>
+<link>https://www.youtube.com/user/NgocHuyenZone</link>
+<thumbnail>https://yt3.ggpht.com/-gazkezY6KSM/AAAAAAAAAAI/AAAAAAAAAAA/_qhpqFR4h3g/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - cailuongvietnam vn</title>
+<link>https://www.youtube.com/channel/UCM85iZlQzyEV3Ag9Bh2v54A</link>
+<thumbnail>https://yt3.ggpht.com/-ppc3yR2CQmI/AAAAAAAAAAI/AAAAAAAAAAA/e_etD9lJARM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - tancogiaoduyencp</title>
+<link>https://www.youtube.com/user/tancogiaoduyencp</link>
+<thumbnail>https://yt3.ggpht.com/-U_3jmE24l8Y/AAAAAAAAAAI/AAAAAAAAAAA/Rrj_bE77RHs/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Việt Nam Cải Lương</title>
+<link>https://www.youtube.com/channel/UCYK1xo7CRbGIhNyfz4MyGkQ</link>
+<thumbnail>https://yt3.ggpht.com/-0xgCmWo2Wko/AAAAAAAAAAI/AAAAAAAAAAA/wYC99g73lXc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương Online</title>
+<link>https://www.youtube.com/channel/UCPR1RT-nvozDhweXtHh6Zkw</link>
+<thumbnail>https://yt3.ggpht.com/-IG4bcV8VDDg/AAAAAAAAAAI/AAAAAAAAAAA/fkUh-d6e1_o/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương Miền Nam</title>
+<link>https://www.youtube.com/channel/UCMKsP2qCocvWTDP5hfNm_Tw</link>
+<thumbnail>https://yt3.ggpht.com/-3FdTzSA9M9c/AAAAAAAAAAI/AAAAAAAAAAA/25l4n326AiM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - TânCổ-GiaoDuyên2014</title>
+<link>https://www.youtube.com/user/trutinhvietnam2014</link>
+<thumbnail>https://yt3.ggpht.com/-xsD4V4gXkC0/AAAAAAAAAAI/AAAAAAAAAAA/u1dCqGETfgI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương Tôi Yêu</title>
+<link>https://www.youtube.com/user/cailuongtoiyeutv</link>
+<thumbnail>https://yt3.ggpht.com/-yzcjQUBvOPg/AAAAAAAAAAI/AAAAAAAAAAA/CJtoChtohL8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Cailuong - conhacmiennam</title>
+<link>https://www.youtube.com/user/conhacmiennam</link>
+<thumbnail>https://yt3.ggpht.com/-jhP2UZ2K1qA/AAAAAAAAAAI/AAAAAAAAAAA/L0MYsrxCXHU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương Kênh</title>
+<link>https://www.youtube.com/channel/UCWO6xsEFVQ9ClWOhHSbWSFw</link>
+<thumbnail>https://yt3.ggpht.com/-Ik6ADmbfueM/AAAAAAAAAAI/AAAAAAAAAAA/AAvHr7sjkvc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Tân Cổ Channel</title>
+<link>https://www.youtube.com/user/vipprosadec</link>
+<thumbnail>https://yt3.ggpht.com/-u7ADSxtgKO0/AAAAAAAAAAI/AAAAAAAAAAA/6XkirivKQ2E/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải lương Đặc sắc</title>
+<link>https://www.youtube.com/channel/UCOByIJlXD9dHRntNnaymncg</link>
+<thumbnail>https://yt3.ggpht.com/-6jjvLgN80PU/AAAAAAAAAAI/AAAAAAAAAAA/tkqmHBW2-jI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 1</title>
+<link>https://www.youtube.com/channel/UCcUyBre7IIdskndDbBe_dRg</link>
+<thumbnail>https://yt3.ggpht.com/-Gw1NccKFKoo/AAAAAAAAAAI/AAAAAAAAAAA/kzz_zDLcMtY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 2</title>
+<link>https://www.youtube.com/channel/UCrfhSe0PnEYb-Y_ARusKwHQ</link>
+<thumbnail>https://yt3.ggpht.com/-HwZMOdFDtf4/AAAAAAAAAAI/AAAAAAAAAAA/a_5cmy8ECn8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 3</title>
+<link>https://www.youtube.com/user/sirnguyenhha</link>
+<thumbnail>https://yt3.ggpht.com/-H7ba2IdFkWg/AAAAAAAAAAI/AAAAAAAAAAA/iBMHjZPgh2w/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Cailuong - Cải Lương 4</title>
+<link>https://www.youtube.com/channel/UCvrb2yJttwWhuTCiuCpvYMw</link>
+<thumbnail>https://yt3.ggpht.com/-0s8vdZgOCqg/AAAAAAAAAAI/AAAAAAAAAAA/0DRy_rlWUCA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cailuong - Cải Lương 5</title>
+<link>https://www.youtube.com/user/MrMinhRang</link>
+<thumbnail>https://yt3.ggpht.com/-c9Uw8qpWbBk/AAAAAAAAAAI/AAAAAAAAAAA/ThnMMHlF9as/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ Sitcom -------------------->
+
+<item>
+<title>Sitcom - Smart Media - Sitcom</title>
+<link>https://www.youtube.com/user/tiembanhhoangtube</link>
+<thumbnail>https://yt3.ggpht.com/-zcpEkDU5vBU/AAAAAAAAAAI/AAAAAAAAAAA/um8AnZ6x0LY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - Ơn giời cậu đây rồi</title>
+<link>https://www.youtube.com/user/ONGIOICAUDAYROIVTV3</link>
+<thumbnail>https://yt3.ggpht.com/-Oj69f0Oau1U/AAAAAAAAAAI/AAAAAAAAAAA/w_3K2bm8XBw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - 5sonlinevietnam</title>
+<link>https://www.youtube.com/user/5sonlinevietnam</link>
+<thumbnail>https://yt3.ggpht.com/-wfuM7XK1ZHk/AAAAAAAAAAI/AAAAAAAAAAA/khmtfMcO97Q/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - Càfe Cười</title>
+<link>https://www.youtube.com/user/cafecuoisenvang</link>
+<thumbnail>https://yt3.ggpht.com/-zScpsYu-kE0/AAAAAAAAAAI/AAAAAAAAAAA/0pJBM3zvOhY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - YEAH1TV</title>
+<link>https://www.youtube.com/user/2idolshow</link>
+<thumbnail>https://yt3.ggpht.com/-nzeruT2sJnQ/AAAAAAAAAAI/AAAAAAAAAAA/Zq_xBKRC-f4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - mcvietthao</title>
+<link>https://www.youtube.com/user/mcvietthao</link>
+<thumbnail>https://yt3.ggpht.com/-0VvIgN8_KcA/AAAAAAAAAAI/AAAAAAAAAAA/iXTccSNkaHQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sitcom - Vân Sơn Hài Collection</title>
+<link>http://www.dailymotion.com/rss/user/danduphim88/1</link>
+<thumbnail>http://s1.dmcdn.net/AVM/200x200-iwk.png</thumbnail>
+</item>
+
+<!------------ TV Shows ------------------>
+
+<item>
+<title>TiviShows - VTV Showbiz</title>
+<link>https://www.youtube.com/user/VTVShowbiz</link>
+<thumbnail>https://yt3.ggpht.com/-4gcy2uYPaFM/AAAAAAAAAAI/AAAAAAAAAAA/OgTIcYKvXwU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - SoYouThinkYouCanDance Vietnam</title>
+<link>https://www.youtube.com/user/sytycdvn</link>
+<thumbnail>https://yt3.ggpht.com/-PuafojENrjw/AAAAAAAAAAI/AAAAAAAAAAA/8QLze4wjxCo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Bếp Hát</title>
+<link>https://www.youtube.com/user/bephatvn</link>
+<thumbnail>https://yt3.ggpht.com/-ZAnDPfK8PpU/AAAAAAAAAAI/AAAAAAAAAAA/dYYB6fMM0lg/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Vui Ơi Là Vui</title>
+<link>https://www.youtube.com/user/gameshowVuiOiLaVui</link>
+<thumbnail>https://yt3.ggpht.com/-yV_STK9c1hs/AAAAAAAAAAI/AAAAAAAAAAA/UsLdd_gOhBE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Cười Là Thua</title>
+<link>https://www.youtube.com/channel/UCGhoqIuOFPYneUs-Dnp1TVQ</link>
+<thumbnail>https://yt3.ggpht.com/-2vfg-jUVIHk/AAAAAAAAAAI/AAAAAAAAAAA/jnnHhw8X-o4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - NGƯỜI BÍ ẨN</title>
+<link>https://www.youtube.com/user/TVSHOWNGUOIBIAN</link>
+<thumbnail>https://yt3.ggpht.com/-eD9IQahiO0s/AAAAAAAAAAI/AAAAAAAAAAA/vEewRpA3Mnc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - VNsGotTalent</title>
+<link>https://www.youtube.com/user/VNsGotTalent</link>
+<thumbnail>https://yt3.ggpht.com/-P-YUAVzbVsE/AAAAAAAAAAI/AAAAAAAAAAA/aiVkzaExnoQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Nhân Tố Bí Ẩn</title>
+<link>https://www.youtube.com/user/nhantobianvietnam</link>
+<thumbnail>https://yt3.ggpht.com/-o-qOvJ4Hnpo/AAAAAAAAAAI/AAAAAAAAAAA/9Czjt9gZrtU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Bước Nhảy Hoàn Vũ Nhí</title>
+<link>https://www.youtube.com/user/btcbuocnhayhoanvunhi</link>
+<thumbnail>https://yt3.ggpht.com/-IIgMk2z8oGA/AAAAAAAAAAI/AAAAAAAAAAA/JEfDrRX0xUU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - vuadaubepvietnam</title>
+<link>https://www.youtube.com/user/vuadaubepvietnam</link>
+<thumbnail>https://yt3.ggpht.com/-dlhUjfoNt3M/AAAAAAAAAAI/AAAAAAAAAAA/2IvSXsWFrro/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Ai Là Triệu Phú</title>
+<link>https://www.youtube.com/user/ailatrieuphufull</link>
+<thumbnail>https://yt3.ggpht.com/-C7PGhXEpqXU/AAAAAAAAAAI/AAAAAAAAAAA/xox2zcGVW6E/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - VTV Trực Tuyến</title>
+<link>https://www.youtube.com/user/undergroudtop</link>
+<thumbnail>https://yt3.ggpht.com/-KHc9TG7dvXg/AAAAAAAAAAI/AAAAAAAAAAA/5V_OiXrNOic/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - VLOG Truyền Hình</title>
+<link>https://www.youtube.com/user/VLOGTruyenHinh</link>
+<thumbnail>https://yt3.ggpht.com/-NyNKUFugoLc/AAAAAAAAAAI/AAAAAAAAAAA/9IOrd_h_WoM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - CuocDuaKyThuVN</title>
+<link>https://www.youtube.com/user/CuocDuaKyThuVN</link>
+<thumbnail>https://yt3.ggpht.com/-hfhpskRQQho/AAAAAAAAAAI/AAAAAAAAAAA/vd6S6Al8Cog/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Học Viện Ngôi Sao</title>
+<link>https://www.youtube.com/user/HocVienNgoiSao</link>
+<thumbnail>https://yt3.ggpht.com/-Gl3PTXXq9RQ/AAAAAAAAAAI/AAAAAAAAAAA/sAgYOOdKfqE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Endemol</title>
+<link>https://www.youtube.com/user/YFSFVietnam</link>
+<thumbnail>https://yt3.ggpht.com/-wSbiH8ES9W8/AAAAAAAAAAI/AAAAAAAAAAA/He9QFYs2zaE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Vũ Điệu Tuổi Xanh</title>
+<link>https://www.youtube.com/user/VuDieuTuoiXanh</link>
+<thumbnail>https://yt3.ggpht.com/-5SY4bIK3Bzc/AAAAAAAAAAI/AAAAAAAAAAA/DsfhgWI4d0Y/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Đọ Sức Âm Nhạc</title>
+<link>https://www.youtube.com/user/dosucamnhac</link>
+<thumbnail>https://yt3.ggpht.com/-eVJG_SeYZTA/AAAAAAAAAAI/AAAAAAAAAAA/1H6VBpY56qI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Linh PT</title>
+<link>https://www.youtube.com/user/GiongHatViet1</link>
+<thumbnail>https://yt3.ggpht.com/-_FyIWYcg0ZI/AAAAAAAAAAI/AAAAAAAAAAA/PWKIQyxlgXA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Tuyệt Đỉnh Tranh Tài</title>
+<link>https://www.youtube.com/user/tuyetdinhtranhtaiTV</link>
+<thumbnail>https://yt3.ggpht.com/-oE8VzRPCOo4/AAAAAAAAAAI/AAAAAAAAAAA/PmnyJFPaH-g/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - Vietnam Idol</title>
+<link>https://www.youtube.com/user/vietnamidol3</link>
+<thumbnail>https://yt3.ggpht.com/-Lpum5AtdPmk/AAAAAAAAAAI/AAAAAAAAAAA/y90HILn9J2M/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TiviShows - NhanToBiAn</title>
+<link>https://www.youtube.com/user/NhanToBiAn1</link>
+<thumbnail>https://yt3.ggpht.com/--06wj7KRAys/AAAAAAAAAAI/AAAAAAAAAAA/xyn1ypL-Yfk/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+
+<!------------- Sports ------------------->
+
+<item>
+<title>Sports - Trang nguyen</title>
+<link>https://www.youtube.com/channel/UCplLrzVkLP31D0ymZ_q333A</link>
+<thumbnail>https://yt3.ggpht.com/-HMKdtAnJVKk/AAAAAAAAAAI/AAAAAAAAAAA/AAtOzy-CpiY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Thọ Lê</title>
+<link>https://www.youtube.com/channel/UC3neDQB3isgEr0FqQyUJ44Q</link>
+<thumbnail>https://yt3.ggpht.com/-z5XMxXNTKg0/AAAAAAAAAAI/AAAAAAAAAAA/u4bGgw06Umw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - thẩm mỹ Thể dục</title>
+<link>https://www.youtube.com/channel/UCMd8pzGXMqFjdZSogx_Oy6Q</link>
+<thumbnail>https://yt3.ggpht.com/-234DE5QcsD4/AAAAAAAAAAI/AAAAAAAAAAA/jM96GtlQu0k/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Vovinam Thái Nguyên</title>
+<link>https://www.youtube.com/user/thanhnienxungkich</link>
+<thumbnail>https://yt3.ggpht.com/-bcjAot9Sndo/AAAAAAAAAAI/AAAAAAAAAAA/1Ra1XoYYX_w/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - VovinamEngland</title>
+<link>https://www.youtube.com/user/VovinamEngland</link>
+<thumbnail>https://yt3.ggpht.com/-2-O2gBzx3Ik/AAAAAAAAAAI/AAAAAAAAAAA/G7gY4mfElWw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Thethao247vn</title>
+<link>https://www.youtube.com/user/Thethao247vn</link>
+<thumbnail>https://yt3.ggpht.com/-GxwSoVnU5Fs/AAAAAAAAAAI/AAAAAAAAAAA/hYVSpOEbcn0/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - nhỏ Cu tí</title>
+<link>https://www.youtube.com/user/cutinhofull</link>
+<thumbnail>https://yt3.ggpht.com/--dLmB2MIaQ8/AAAAAAAAAAI/AAAAAAAAAAA/l5zN1sBVF70/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Báo Bóng Đá</title>
+<link>https://www.youtube.com/user/bongdaplustv</link>
+<thumbnail>https://yt3.ggpht.com/-vGHKGf614v4/AAAAAAAAAAI/AAAAAAAAAAA/pSW0obxPXqo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - VTV Sport</title>
+<link>https://www.youtube.com/user/VTVSport</link>
+<thumbnail>https://yt3.ggpht.com/-VGtjMhZXlDY/AAAAAAAAAAI/AAAAAAAAAAA/nFQYBU9OY9A/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Olympics</title>
+<link>https://www.youtube.com/user/olympic</link>
+<thumbnail>https://yt3.ggpht.com/-AW93TLngzTI/AAAAAAAAAAI/AAAAAAAAAAA/HyeBYcDRhUY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Allsports Athletics</title>
+<link>https://www.youtube.com/user/AllSportsAthletics</link>
+<thumbnail>https://yt3.ggpht.com/-rHvws1zmHZ8/AAAAAAAAAAI/AAAAAAAAAAA/xY_o_5S8NFo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - ESPN</title>
+<link>https://www.youtube.com/user/ESPN</link>
+<thumbnail>https://yt3.ggpht.com/-yOoKXdob9y8/AAAAAAAAAAI/AAAAAAAAAAA/O9ATiv9wGJ0/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - WWE</title>
+<link>https://www.youtube.com/user/WWEFanNation</link>
+<thumbnail>https://yt3.ggpht.com/-5PUl_QbabAQ/AAAAAAAAAAI/AAAAAAAAAAA/MbgCFPQeJrQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - HBOBoxing</title>
+<link>https://www.youtube.com/user/HBOsports</link>
+<thumbnail>https://yt3.ggpht.com/-xspd8uYupTc/AAAAAAAAAAI/AAAAAAAAAAA/UTwanzEE9iM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Glovesgymabc Gloves</title>
+<link>https://www.youtube.com/channel/UCYGlQcpAY_2UxEOCxTd1k5Q</link>
+<thumbnail>https://yt3.ggpht.com/-cUcsui_OlOw/AAAAAAAAAAI/AAAAAAAAAAA/UyAAn6EKuts/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Kings of Boxing</title>
+<link>https://www.youtube.com/user/2112wildcat</link>
+<thumbnail>https://yt3.ggpht.com/-PHv-PAi0gVM/AAAAAAAAAAI/AAAAAAAAAAA/fEbFwnH5G3E/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - NBA</title>
+<link>https://www.youtube.com/user/NBA</link>
+<thumbnail>https://yt3.ggpht.com/-iykIxE6HFpM/AAAAAAAAAAI/AAAAAAAAAAA/qho7mLdsPLc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Football News</title>
+<link>https://www.youtube.com/user/FootballNewsUS</link>
+<thumbnail>https://yt3.ggpht.com/-TjTIYGhSkWI/AAAAAAAAAAI/AAAAAAAAAAA/ixoe-gtWhuU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Swimming World</title>
+<link>https://www.youtube.com/user/SwimmingWorldSPI</link>
+<thumbnail>https://yt3.ggpht.com/-awd9mBOKB8U/AAAAAAAAAAI/AAAAAAAAAAA/o5-d3BFJIT4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - USA Swimming</title>
+<link>https://www.youtube.com/user/USASwimmingOrg</link>
+<thumbnail>https://yt3.ggpht.com/-cmqYx-vQBA0/AAAAAAAAAAI/AAAAAAAAAAA/TM6jRMTXPE8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - US Open Tennis Championships</title>
+<link>https://www.youtube.com/user/USOPEN</link>
+<thumbnail>https://yt3.ggpht.com/-Vvz633uOcJk/AAAAAAAAAAI/AAAAAAAAAAA/LTO0b1axS_c/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Australian Open TV</title>
+<link>https://www.youtube.com/user/australianopentv</link>
+<thumbnail>https://yt3.ggpht.com/-yRCj_d3qGGo/AAAAAAAAAAI/AAAAAAAAAAA/yc3iJKhcYCU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports - Tin Thể Thao</title>
+<link>http://www.dailymotion.com/rss/user/johny_huy/1</link>
+<thumbnail>http://s1.dmcdn.net/AVM/200x200-iwk.png</thumbnail>
+</item>
+
+<!------------- Travel ------------------->
+
+<item>
+<title>Travel - Dulich HoanMy</title>
+<link>https://www.youtube.com/user/DulichHoanmy</link>
+<thumbnail>https://yt3.ggpht.com/-3FoSQn9MAsA/AAAAAAAAAAI/AAAAAAAAAAA/NVkgOH-zNao/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du lịch Việt Nam</title>
+<link>https://www.youtube.com/user/apttravelgroup</link>
+<thumbnail>https://yt3.ggpht.com/-agNCdY70020/AAAAAAAAAAI/AAAAAAAAAAA/GQf0p-09lC0/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du lịch Thái Lan</title>
+<link>https://www.youtube.com/user/tourthailan</link>
+<thumbnail>https://yt3.ggpht.com/-HC1Y-5R6qzw/AAAAAAAAAAI/AAAAAAAAAAA/lKSZBgpylsc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Văn hóa Việt Nam</title>
+<link>https://www.youtube.com/user/vanhoaviettv</link>
+<thumbnail>https://yt3.ggpht.com/-LDGMuh3MdoI/AAAAAAAAAAI/AAAAAAAAAAA/iO28nr07XjU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Khám Phá Việt Nam</title>
+<link>https://www.youtube.com/user/KhamPhaVietNamVTV</link>
+<thumbnail>https://yt3.ggpht.com/-zSXvV_lPPkY/AAAAAAAAAAI/AAAAAAAAAAA/DvETKQwq0aA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lịch Đất Việt</title>
+<link>https://www.youtube.com/user/datviettour198</link>
+<thumbnail>https://yt3.ggpht.com/-Z7RuGVVT83c/AAAAAAAAAAI/AAAAAAAAAAA/IPx-z04Lw6w/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lịch Khát Vọng Việt</title>
+<link>https://www.youtube.com/user/dulichkhatvongviet</link>
+<thumbnail>https://yt3.ggpht.com/-7PsjzfEy3xo/AAAAAAAAAAI/AAAAAAAAAAA/Pbu9k95SryI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lich Phu Quoc</title>
+<link>https://www.youtube.com/user/phuquoctravelonline</link>
+<thumbnail>https://yt3.ggpht.com/-HpDrihf9_LE/AAAAAAAAAAI/AAAAAAAAAAA/pkA1bQpNkrY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du Lịch Anz</title>
+<link>https://www.youtube.com/user/dulichanz2</link>
+<thumbnail>https://yt3.ggpht.com/-NrXg4GPE56s/AAAAAAAAAAI/AAAAAAAAAAA/jX7s0D-TpII/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Đi Du Lịch</title>
+<link>https://www.youtube.com/user/DiDuLichOnline</link>
+<thumbnail>https://yt3.ggpht.com/-qmg0Avn_jO4/AAAAAAAAAAI/AAAAAAAAAAA/78-FVELhpxg/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - venustravelvn</title>
+<link>https://www.youtube.com/user/venustravelvn</link>
+<thumbnail>https://yt3.ggpht.com/-p8KVeelYBNc/AAAAAAAAAAI/AAAAAAAAAAA/hzs6BbUTdGE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Miền Sông Nước</title>
+<link>https://www.youtube.com/user/mekongculture</link>
+<thumbnail>https://yt3.ggpht.com/-ClzFrBJn2d4/AAAAAAAAAAI/AAAAAAAAAAA/GAcIEzVBXYc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Sông Nước Miền Tây</title>
+<link>https://www.youtube.com/user/miensongnuoc</link>
+<thumbnail>https://yt3.ggpht.com/-udJ5VQgpSwI/AAAAAAAAAAI/AAAAAAAAAAA/jQ-GSulcBss/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Đồng Tháp quê mình</title>
+<link>https://www.youtube.com/user/DThapquetoi</link>
+<thumbnail>https://yt3.ggpht.com/-Xidx6stpBrY/AAAAAAAAAAI/AAAAAAAAAAA/7fnvgLNIths/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Travel - Du lịch và Ẩm thực miền Tây sông nước</title>
+<link>https://www.youtube.com/user/dulichvaamthuc</link>
+<thumbnail>https://yt3.ggpht.com/--MO6TC6uJwg/AAAAAAAAAAI/AAAAAAAAAAA/y2tvG7f2o1A/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ Medical ------------------->
+
+<item>
+<title>Y Tế Đồng Nai - Y Khoa Tổng Quát</title>
+<link>http://www.dnrtv.org.vn/tvod/chuyen-de/suc-khoe</link>
+<thumbnail>ykhoa.png</thumbnail>
+</item>
+
+<item>
+<title>Medical - Co Pham</title>
+<link>https://www.youtube.com/user/CoPhamMD</link>
+<thumbnail>https://yt3.ggpht.com/-Ir0hKAT3DlM/AAAAAAAAAAI/AAAAAAAAAAA/O6fe8Y4NUZQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Medical - KIẾN THỨC Y KHOA</title>
+<link>https://www.youtube.com/user/kienthucykhoa</link>
+<thumbnail>https://yt3.ggpht.com/-Q5mDNDZ3oJk/AAAAAAAAAAI/AAAAAAAAAAA/hTNJIa1PPRo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Medical - Sức Khỏe Mỗi Ngày</title>
+<link>https://www.youtube.com/user/tringoai</link>
+<thumbnail>https://yt3.ggpht.com/-5q6pkmA4-sA/AAAAAAAAAAI/AAAAAAAAAAA/shzylNIj5Y4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Medical - Tài Liệu Y Học</title>
+<link>https://www.youtube.com/user/TaiLieuYHoc</link>
+<thumbnail>https://yt3.ggpht.com/-_DMQEpgJvK0/AAAAAAAAAAI/AAAAAAAAAAA/73SEV10EDj0/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Medical - Thư Viện Y Khoa</title>
+<link>https://www.youtube.com/channel/UCldPEiKvoHXuT6E4Zp5vCIg</link>
+<thumbnail>https://yt3.ggpht.com/-zTVeIXOaoTw/AAAAAAAAAAI/AAAAAAAAAAA/2xgJEfjjPmE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+
+<!------------ Cooking ------------------->
+
+<item>
+<title>Cooking - Uyen Thy's Cooking</title>
+<link>https://www.youtube.com/user/UyenThyCooking2013</link>
+<thumbnail>https://yt3.ggpht.com/-jVToijkQkFo/AAAAAAAAAAI/AAAAAAAAAAA/7RHWK6zilmY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Asiancookingmadeeasy</title>
+<link>https://www.youtube.com/user/AsianCookingmadeEasy</link>
+<thumbnail>https://yt3.ggpht.com/-9b5VJhkXoKM/AAAAAAAAAAI/AAAAAAAAAAA/H6LSq-Ay4x8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Day nau an</title>
+<link>https://www.youtube.com/user/amthuctinhyeu123</link>
+<thumbnail>https://yt3.ggpht.com/-_sOPLL2b1bc/AAAAAAAAAAI/AAAAAAAAAAA/Bu_IZ1AWOnk/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Helen's Recipes (Vietnamese Food)</title>
+<link>https://www.youtube.com/user/HelenRecipes</link>
+<thumbnail>https://yt3.ggpht.com/-lXWCk1JjtDQ/AAAAAAAAAAI/AAAAAAAAAAA/WimPbqGFPHw/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cooking - tdmaison</title>
+<link>https://www.youtube.com/user/tdmaison</link>
+<thumbnail>https://yt3.ggpht.com/-quVBBe2uDlM/AAAAAAAAAAI/AAAAAAAAAAA/tuzFj9aYh4s/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Cathy Ha</title>
+<link>https://www.youtube.com/user/VietFoodie</link>
+<thumbnail>https://yt3.ggpht.com/-zc7s69r_eQs/AAAAAAAAAAI/AAAAAAAAAAA/djxJyZTsJMY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Nhà đẹp & món ngon</title>
+<link>https://www.youtube.com/user/khoainv</link>
+<thumbnail>https://i.ytimg.com/i/uFdWTQgdgVkKX8CrVMOsVg/mq1.jpg?v=4fc532bd</thumbnail>
+</item>
+
+<item>
+<title>Cooking - Sinh Tố</title>
+<link>http://www.dailymotion.com/rss/user/hocnauan/1</link>
+<thumbnail>http://s1.dmcdn.net/AVM/200x200-iwk.png</thumbnail>
+</item>
+<!------------ MakeUp -------------------->
+
+<item>
+<title>MakeUp - Michelle Phan</title>
+<link>https://www.youtube.com/user/MichellePhan</link>
+<thumbnail>https://yt3.ggpht.com/-tXL4ywC60FY/AAAAAAAAAAI/AAAAAAAAAAA/0YRMBFvAsCo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>MakeUp - Quách Ánh Makeup Store</title>
+<link>https://www.youtube.com/channel/UCHQO9xPSROEHYHUk_T82l6w</link>
+<thumbnail>https://yt3.ggpht.com/-lzDzl2WmjO8/AAAAAAAAAAI/AAAAAAAAAAA/m837Sx02Us4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>MakeUp - Trang LalaBeautylady</title>
+<link>https://www.youtube.com/user/tranglala90</link>
+<thumbnail>https://yt3.ggpht.com/-qQNfZWzF8Jw/AAAAAAAAAAI/AAAAAAAAAAA/1iAwoBwQjFE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>MakeUp - VietBeauty NailViet</title>
+<link>https://www.youtube.com/channel/UCrvDF3Rzt6qeFVjFwQM3rRw</link>
+<thumbnail>https://yt3.ggpht.com/-ei4H45EiJUU/AAAAAAAAAAI/AAAAAAAAAAA/M6bq4T2XXa8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ AudioBook ----------------->
+
+<item>
+<title>AudioBook - Nghe Đọc Truyện Online</title>
+<link>https://www.youtube.com/user/nghedoctruyenonline</link>
+<thumbnail>https://yt3.ggpht.com/-8MwaRgyirOM/AAAAAAAAAAI/AAAAAAAAAAA/-HP7S3DeoAo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>AudioBook - Videobooks For You</title>
+<link>https://www.youtube.com/user/videobooksforyou</link>
+<thumbnail>https://yt3.ggpht.com/-dOGpWIU7obM/AAAAAAAAAAI/AAAAAAAAAAA/o5MVcFr1d5I/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>AudioBook - Truyện Audio Online</title>
+<link>https://www.youtube.com/user/AudioOnlineHay</link>
+<thumbnail>https://yt3.ggpht.com/-ZQrQAmk4SJU/AAAAAAAAAAI/AAAAAAAAAAA/fDH50Q2TFAU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ Immigration ---------------->
+
+<item>
+<title>Immigration - Huy-Tuan Nguyen</title>
+<link>https://www.youtube.com/user/NguyenLegalGroup</link>
+<thumbnail>https://yt3.ggpht.com/-AfvPlUsK6Vk/AAAAAAAAAAI/AAAAAAAAAAA/QdGuQyuPAis/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Immigration - NguyenLeThienTrang</title>
+<link>https://www.youtube.com/user/NguyenLeThienTrang</link>
+<thumbnail>https://yt3.ggpht.com/-dzhniIesUXg/AAAAAAAAAAI/AAAAAAAAAAA/VnXTzqy8sn4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------- AFV ----------------->
+
+<item>
+<title>AFV - America's Funniest Home Videos</title>
+<link>https://www.youtube.com/user/AFVofficial</link>
+<thumbnail>https://yt3.ggpht.com/-F1ARRPUL8nY/AAAAAAAAAAI/AAAAAAAAAAA/JrqzTRUtOmc/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>AFV - AFV Kids</title>
+<link>https://www.youtube.com/user/ToddleTale</link>
+<thumbnail>https://yt3.ggpht.com/-YjfN38Y9sxk/AAAAAAAAAAI/AAAAAAAAAAA/eZGIhLZZN6U/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>AFV - AFV Animals</title>
+<link>https://www.youtube.com/user/PETSAMI</link>
+<thumbnail>https://yt3.ggpht.com/-8vGxJQM8rPA/AAAAAAAAAAI/AAAAAAAAAAA/YP18bFBwD00/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>AFV - AFVMobile</title>
+<link>https://www.youtube.com/user/AFVMobile</link>
+<thumbnail>https://yt3.ggpht.com/-6K7y31He6sM/AAAAAAAAAAI/AAAAAAAAAAA/pgWEXYfbfm8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------ Discovery & Animal --------->
+
+<item>
+<title>DCAP - Thế Giới Động Vật Hoang Dã</title>
+<link>https://www.youtube.com/channel/UCcTBt9-jXyxIja4A3pHBRpg</link>
+<thumbnail>https://yt3.ggpht.com/-STxPLnz-aSo/AAAAAAAAAAI/AAAAAAAAAAA/ZG9M-gq8Wi8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Animal Planet</title>
+<link>https://www.youtube.com/user/AnimlPlanet</link>
+<thumbnail>https://yt3.ggpht.com/-pB_FSk_eKVg/AAAAAAAAAAI/AAAAAAAAAAA/NnFyQS5gPi8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Animal Planet</title>
+<link>https://www.youtube.com/user/AnimalPlanetTV</link>
+<thumbnail>https://yt3.ggpht.com/-FEsYkupUb-A/AAAAAAAAAAI/AAAAAAAAAAA/6SiqnVvRZJY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Animalist</title>
+<link>https://www.youtube.com/user/AnimalistNetwork</link>
+<thumbnail>https://yt3.ggpht.com/-RiiOENMysFg/AAAAAAAAAAI/AAAAAAAAAAA/ydJAbihXi-Q/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DCAP - DocumentaryTV</title>
+<link>https://www.youtube.com/user/storyofkittens</link>
+<thumbnail>https://yt3.ggpht.com/-cutUPpaGJUo/AAAAAAAAAAI/AAAAAAAAAAA/I_3a0nnyG98/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DCAP - Science Channel</title>
+<link>https://www.youtube.com/user/ScienceChannel</link>
+<thumbnail>https://yt3.ggpht.com/-xAZHRrsBjd4/AAAAAAAAAAI/AAAAAAAAAAA/NrfKuS2oisA/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DCAP - National Geographic</title>
+<link>https://www.youtube.com/user/NationalGeographic</link>
+<thumbnail>https://yt3.ggpht.com/-gVuW1PB5eQU/AAAAAAAAAAI/AAAAAAAAAAA/TFf3A48Pyuk/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DCAP - NatGeoWild</title>
+<link>https://www.youtube.com/user/NatGeoWild</link>
+<thumbnail>https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DCAP - HISTORY</title>
+<link>https://www.youtube.com/user/historychannel</link>
+<thumbnail>https://yt3.ggpht.com/-tIQN2Z8Fv0k/AAAAAAAAAAI/AAAAAAAAAAA/MubIOjgS83Q/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<!------------ Other ---------------->
+
+<item>
+<title>Other - Dạy Nhau Học</title>
+<link>https://www.youtube.com/user/trandatnh</link>
+<thumbnail>https://yt3.ggpht.com/-b-RsqDVfnKA/AAAAAAAAAAI/AAAAAAAAAAA/inzrLSRPB-o/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Lưu Trường Hải Lân</title>
+<link>https://www.youtube.com/user/luutruonghailan</link>
+<thumbnail>https://yt3.ggpht.com/-T5KhISjRRjo/AAAAAAAAAAI/AAAAAAAAAAA/FJXBKhpnO3E/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Derek Banas</title>
+<link>https://www.youtube.com/user/derekbanas</link>
+<thumbnail>https://yt3.ggpht.com/-SN1RQ4kN5bM/AAAAAAAAAAI/AAAAAAAAAAA/T39gSKk4e2g/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - TotalXBMC</title>
+<link>https://www.youtube.com/user/TotalXBMC</link>
+<thumbnail>https://yt3.ggpht.com/-j-99Pz2bz2k/AAAAAAAAAAI/AAAAAAAAAAA/wm1dVKFr5tk/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - PRO XBMC+ KODI+ SuperAddon</title>
+<link>https://www.youtube.com/user/HowToVideoHelp</link>
+<thumbnail>https://yt3.ggpht.com/-UOOVEFjDOJg/AAAAAAAAAAI/AAAAAAAAAAA/I_3eUM4nMc8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - OneTechGenius (XBMC HELPER)</title>
+<link>https://www.youtube.com/user/XBMCHELPER</link>
+<thumbnail>https://yt3.ggpht.com/-gz5CkSVvQW0/AAAAAAAAAAI/AAAAAAAAAAA/5tL5WmC4U4w/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Wilmar CLV</title>
+<link>https://www.youtube.com/user/WilmarVietnam</link>
+<thumbnail>https://yt3.ggpht.com/-c3okNmKUuXk/AAAAAAAAAAI/AAAAAAAAAAA/1LhFS7zc9Xo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - HTVOnline Entertainment</title>
+<link>https://www.youtube.com/user/htvonlinetube</link>
+<thumbnail>https://yt3.ggpht.com/-WI_J9A7kDMk/AAAAAAAAAAI/AAAAAAAAAAA/uEkLBu6iiv8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Chuyện lạ Việt Nam</title>
+<link>https://www.youtube.com/user/chuyenlavietnam24h</link>
+<thumbnail>https://yt3.ggpht.com/-7pwXqQK8zJU/AAAAAAAAAAI/AAAAAAAAAAA/tqpLRpL0UP4/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Giải trí 60 Giây</title>
+<link>https://www.youtube.com/user/bantintonghop</link>
+<thumbnail>https://yt3.ggpht.com/-5irzRU2OWKg/AAAAAAAAAAI/AAAAAAAAAAA/TzO0u0FS92Q/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Khoa học - Đời sống</title>
+<link>https://www.youtube.com/user/khoahoctv</link>
+<thumbnail>https://yt3.ggpht.com/-9EMBXH23m6w/AAAAAAAAAAI/AAAAAAAAAAA/8EiBUP27_ZM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - KHOA HOC CONG NGHE Plus</title>
+<link>https://www.youtube.com/user/KHCN1123Pus</link>
+<thumbnail>https://yt3.ggpht.com/-T6jd7Y3SrpQ/AAAAAAAAAAI/AAAAAAAAAAA/99Ihp_LXqvI/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - YAN TV</title>
+<link>https://www.youtube.com/user/YanTVChannel</link>
+<thumbnail>https://yt3.ggpht.com/-FAtxy--mBqg/AAAAAAAAAAI/AAAAAAAAAAA/jw4sLN7Xjt8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - IMOVIE BTV4</title>
+<link>https://www.youtube.com/user/ImovieBTV4</link>
+<thumbnail>https://yt3.ggpht.com/-gP_kt6i2Hq4/AAAAAAAAAAI/AAAAAAAAAAA/NZLqV2UbRMU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Zui vn - Phim Online HD miễn phí</title>
+<link>https://www.youtube.com/user/zuivn</link>
+<thumbnail>https://yt3.ggpht.com/--d9CVuZQEM8/AAAAAAAAAAI/AAAAAAAAAAA/wuzB_WFQUaY/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - ExcelIsFun</title>
+<link>https://www.youtube.com/user/ExcelIsFun</link>
+<thumbnail>https://yt3.ggpht.com/-tDHO0qThc5I/AAAAAAAAAAI/AAAAAAAAAAA/s_fvhNoceuo/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - This Old House</title>
+<link>https://www.youtube.com/user/thisoldhouse</link>
+<thumbnail>https://yt3.ggpht.com/-Vj-V4s2P9I8/AAAAAAAAAAI/AAAAAAAAAAA/IMAxesnpArM/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Khan Academy</title>
+<link>https://www.youtube.com/user/khanacademy</link>
+<thumbnail>https://yt3.ggpht.com/-Sxo3Mp6e4Bg/AAAAAAAAAAI/AAAAAAAAAAA/vL4onTqTcjU/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Khan Academy - Projects</title>
+<link>https://www.youtube.com/user/khanacademyprojects</link>
+<thumbnail>https://yt3.ggpht.com/-svnpNkvsKug/AAAAAAAAAAI/AAAAAAAAAAA/mrzvreRXqbs/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - khanacademymedicine</title>
+<link>https://www.youtube.com/user/khanacademymedicine</link>
+<thumbnail>https://yt3.ggpht.com/-5DrrRaNFisc/AAAAAAAAAAI/AAAAAAAAAAA/kY_wi2gaYmE/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - POPS VIỆT NAM</title>
+<link>http://www.dailymotion.com/rss/user/PopsVietNam/1</link>
+<thumbnail>http://s1.dmcdn.net/JevLp/200x200-SEG.jpg</thumbnail>
+</item>
+
+<item>
+<title>Other - Vietnamese Cuisine</title>
+<link>http://www.dailymotion.com/rss/user/VietnameseCuisine/1</link>
+<thumbnail>http://s1.dmcdn.net/AVM/200x200-iwk.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Chương Trình Tổng Hợp 1</title>
+<link>http://www.dailymotion.com/rss/user/Viettrinh/1</link>
+<thumbnail>http://s1.dmcdn.net/AVM/200x200-iwk.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Gozua</title>
+<link>http://www.dailymotion.com/rss/user/Gozua/1</link>
+<thumbnail>http://s1.dmcdn.net/AVM/200x200-iwk.png</thumbnail>
+</item>
+
+<item>
+<title>Other - Phim 2015</title>
+<link>https://www.youtube.com/user/phimtruyen2015</link>
+<thumbnail>https://yt3.ggpht.com/-v1hGMDvu-9U/AAAAAAAAAAI/AAAAAAAAAAA/nYQH_0IzBHQ/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+</stream>
