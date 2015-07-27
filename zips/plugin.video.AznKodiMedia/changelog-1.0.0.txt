@@ -1,8 +1,0 @@
-v 1.0.0
-Initial release
-
-Download link for YouTube add-on:
-https://github.com/bromix/plugin.video.youtube
-
-Download link for Dailymotion add-on:
-https://github.com/AddonScriptorDE/plugin.video.dailymotion_com
